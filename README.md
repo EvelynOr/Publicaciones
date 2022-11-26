@@ -1,3 +1,5 @@
 # 👩‍💻 Publicaciones
 
-### 1. De Power BI
+### 1. Power BI
+
+### 2. Estadistica
