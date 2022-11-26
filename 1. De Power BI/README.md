@@ -13,7 +13,6 @@ https://learn.microsoft.com/es-es/users/heyrob/collections/o4dhk4z8xpr8q?source=
 https://learn.microsoft.com/es-es/training/ 
 
 4. Solo para principiantes 🐣 algunas ideas 👌
-
 📝 Dashboard de pronóstico trimestral
 💵  Dashboard de la canalización de ventas
 💰 Dashboard de crecimiento de ventas
