@@ -5,9 +5,8 @@
 2. Design effective reports in Power BI en #español, tiene seis módulos 👣 para no perderse en el autoaprendizaje 💻
 https://learn.microsoft.com/es-es/users/heyrob/collections/o4dhk4z8xpr8q?source=docs
 
-3. Rutas de aprendizaje para #powerbi , siete módulos 👌 https://learn.microsoft.com/es-es/training/ 
+3. Rutas de aprendizaje para #powerbi, siete módulos 👌 https://learn.microsoft.com/es-es/training/ 
 
 4. Algunas ideas 👌 para dashboads de finanzas https://www.tableau.com/es-es/learn/articles/sales-dashboards-examples-and-templates
 
-5.Ocho ejemplos guiados para iniciar en #powerbi 👌 
-https://learn.microsoft.com/es-es/power-bi/create-reports/sample-datasets#explore-excel-samples-in-excel 
+5. Ocho ejemplos guiados para iniciar en #powerbi 👌 https://learn.microsoft.com/es-es/power-bi/create-reports/sample-datasets#explore-excel-samples-in-excel 
