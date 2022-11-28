@@ -7,4 +7,6 @@ https://learn.microsoft.com/es-es/users/heyrob/collections/o4dhk4z8xpr8q?source=
 
 3. Rutas de aprendizaje para #powerbi , siete módulos 👌 https://learn.microsoft.com/es-es/training/ 
 
-4. Solo para principiantes 🐣 algunas ideas 👌 para dashboads de finanzas https://www.tableau.com/es-es/learn/articles/sales-dashboards-examples-and-templates
+4. Algunas ideas 👌 para dashboads de finanzas https://www.tableau.com/es-es/learn/articles/sales-dashboards-examples-and-templates
+
+5.Ocho ejemplos guiados para iniciar en #powerbi 👌 https://learn.microsoft.com/es-es/power-bi/create-reports/sample-datasets#explore-excel-samples-in-excel 
