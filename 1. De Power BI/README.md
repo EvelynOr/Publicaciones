@@ -10,3 +10,5 @@ https://learn.microsoft.com/es-es/users/heyrob/collections/o4dhk4z8xpr8q?source=
 4. Algunas ideas 👌 para dashboads de finanzas  https://www.tableau.com/es-es/learn/articles/sales-dashboards-examples-and-templates
 
 5. Ocho ejemplos guiados para iniciar en #powerbi 👌 https://learn.microsoft.com/es-es/power-bi/create-reports/sample-datasets#explore-excel-samples-in-excel 
+
+6. Tipos de visualización en #powerbi explicadas de forma sencilla https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a 
