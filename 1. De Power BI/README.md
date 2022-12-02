@@ -11,4 +11,5 @@ https://learn.microsoft.com/es-es/users/heyrob/collections/o4dhk4z8xpr8q?source=
 
 5. Ocho ejemplos guiados para iniciar en #powerbi 👌 https://learn.microsoft.com/es-es/power-bi/create-reports/sample-datasets#explore-excel-samples-in-excel 
 
-6. Tipos de visualización en #powerbi explicadas de forma sencilla https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a 
+6. QuickStart: Learn DAX Basics in 30 Minutes https://support.microsoft.com/en-us/office/quickstart-learn-dax-basics-in-30-minutes-51744643-c2a5-436a-bdf6-c895762bec1a?omkt=en-us&ui=en-us&rs=en-us&ad=us
+
