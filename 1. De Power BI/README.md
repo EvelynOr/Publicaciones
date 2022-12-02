@@ -13,3 +13,7 @@ https://learn.microsoft.com/es-es/users/heyrob/collections/o4dhk4z8xpr8q?source=
 
 6. QuickStart: Learn DAX (Data Analysis Expressions) Basics in 30 Minutes https://support.microsoft.com/en-us/office/quickstart-learn-dax-basics-in-30-minutes-51744643-c2a5-436a-bdf6-c895762bec1a?omkt=en-us&ui=en-us&rs=en-us&ad=us
 
+7. Algo de lo aprendido en las últimas semanas con la documentación de #microsoft
+https://learn.microsoft.com/es-es/power-bi/create-reports/sample-retail-analysis, https://yodalearning.com/tutorials/retail-analysis-power-bi-dashboard/
+
+
