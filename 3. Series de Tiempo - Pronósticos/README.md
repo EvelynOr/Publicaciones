@@ -1,4 +1,4 @@
-# 1. 📈 Sereies de Tiempo
+# 1. 📈 Series de Tiempo
 
 1.1 Solo para principiantes 🐣 en #Python: Time Series Analysis
 
