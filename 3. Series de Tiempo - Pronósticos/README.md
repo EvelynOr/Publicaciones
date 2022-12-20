@@ -1,6 +1,7 @@
 # 1. 📈 Sereies de Tiempo
 
 1.1 Solo para principiantes 🐣 en #Python: Time Series Analysis
+
 📍 Explica de forma sencilla:
 - conceptos base
 - preparación de la data
