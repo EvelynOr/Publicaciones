@@ -10,7 +10,7 @@
 - algunos modelos para el análisis
 
 Curso: https://www.youtube.com/watch?v=k9jOeUKRGSs&list=PLtIY5kwXKny91_IbkqcIXuv6t1prQwFhO&index=1
-Data: 
+
 
 
 
