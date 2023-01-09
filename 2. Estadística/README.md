@@ -7,4 +7,4 @@
 
 ![image](https://user-images.githubusercontent.com/82233779/211324715-39d5f0b1-c8fc-430e-9435-60c6c3d7162b.png)
 
-👇 https://dogramcode.com/bloglibros/ciencia-de-datos?fbclid=IwAR3rtthx_lAFyS1nPE9GjW61dUEmAwD_kpu2fd9EXwZ1pzthdQgQLrjoU8k
+🔗 https://dogramcode.com/bloglibros/ciencia-de-datos?fbclid=IwAR3rtthx_lAFyS1nPE9GjW61dUEmAwD_kpu2fd9EXwZ1pzthdQgQLrjoU8k
