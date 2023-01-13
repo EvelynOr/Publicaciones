@@ -6,3 +6,8 @@
 
 
 #### 3. Series de Tiempo y Pronósticos
+
+
+#### 4. Investigación
+
+Recursos para investigadores 
