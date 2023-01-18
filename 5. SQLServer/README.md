@@ -4,7 +4,7 @@
 
 👍 Da un listado general de proyecto para elegir: https://lnkd.in/gy424-K4
 
-👌 Presenta ocho proyectos con ejemplos didácticos: https://lnkd.in/gVcnDVhE de Jaime Shaker https://github.com/iweld
+👌 Presenta ocho proyectos con ejemplos didácticos: https://lnkd.in/gVcnDVhE de Jaime Shaker 
 
 
 
