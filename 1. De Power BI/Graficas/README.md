@@ -7,25 +7,11 @@
 
 Representación gráfica básica que ha de manejar un científico de datos https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#gr%C3%A1ficos-de-tarta
 
-+ variables cuantitativas 
++ variables cuantitativas: Histogramas  - Gráficos de densidad  - Boxplot
 
-Histogramas
++ variables cualitativas: Gráficas de tarta - Gráficos de barra
 
-Gráficos de densidad
-
-Boxplot
-
-+ variables cualitativas
-
-Gráficas de tarta
-
-Gráficos de barra
-
-+ visualizaciones con dos variables, en ese caso se combinan tipos de variables
-
-Gráficos de líneas
-
-Gráficos de puntos
++ visualizaciones con dos variables:  Gráficos de líneas  - Gráficos de puntos
 
 
 
