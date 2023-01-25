@@ -8,3 +8,14 @@
 ![image](https://user-images.githubusercontent.com/82233779/211324715-39d5f0b1-c8fc-430e-9435-60c6c3d7162b.png)
 
 🔗 https://dogramcode.com/bloglibros/ciencia-de-datos?fbclid=IwAR3rtthx_lAFyS1nPE9GjW61dUEmAwD_kpu2fd9EXwZ1pzthdQgQLrjoU8k
+
+3.Libros de #estadistica para #cienciadedatos 
+📘 Naked Statistics
+📗 Cuadernos de estadística
+📒 Introduction to Statistical Learning
+📙 Elements of Statistical Learning
+Fuente: https://lnkd.in/eqT8yXrY
+
+Introduction to Statistical Learning, lo pueden bajar del sitio oficial https://lnkd.in/eujXgaHk 
+![SL](https://user-images.githubusercontent.com/82233779/214580622-de26d293-f849-4652-bc13-2226bec69089.PNG)
+
