@@ -5,7 +5,7 @@
 2. Visualización de Datos https://datavizcatalogue.com/ES/ e interpretacion de graficas https://statologos.com/ 
 ![image](https://user-images.githubusercontent.com/82233779/214616710-6e4a180e-67b0-4347-a307-d74824fc5efa.png)
 
-Representación gráfica básica que ha de manejar un #científicodedatos https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#gr%C3%A1ficos-de-tarta
+Representación gráfica básica que ha de manejar un científico de datos https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#gr%C3%A1ficos-de-tarta
 
 + variables cuantitativas: Histogramas  - Gráficos de densidad  - Boxplot
 
