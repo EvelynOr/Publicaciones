@@ -1,6 +1,7 @@
 # 👩‍💻 Publicaciones
 
 #### 1. Power BI: material utilizado de referencia o en el proceso de aprendizaje.
+Recrusos para graficar
 
 #### 2. Estadistica
 
