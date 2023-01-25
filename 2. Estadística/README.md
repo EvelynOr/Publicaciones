@@ -10,9 +10,13 @@
 🔗 https://dogramcode.com/bloglibros/ciencia-de-datos?fbclid=IwAR3rtthx_lAFyS1nPE9GjW61dUEmAwD_kpu2fd9EXwZ1pzthdQgQLrjoU8k
 
 3. Libros de #estadistica para #cienciadedatos 
+
 📘 Naked Statistics
+
 📗 Cuadernos de estadística
+
 📒 Introduction to Statistical Learning
+
 📙 Elements of Statistical Learning
 Fuente: https://lnkd.in/eqT8yXrY
 
