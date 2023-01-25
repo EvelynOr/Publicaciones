@@ -20,6 +20,6 @@
 📙 Elements of Statistical Learning
 Fuente: https://lnkd.in/eqT8yXrY
 
-Introduction to Statistical Learning, lo pueden bajar del sitio oficial https://lnkd.in/eujXgaHk 
+Introduction to Statistical Learning, sitio oficial https://lnkd.in/eujXgaHk 
 ![SL](https://user-images.githubusercontent.com/82233779/214580622-de26d293-f849-4652-bc13-2226bec69089.PNG)
 
