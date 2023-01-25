@@ -7,7 +7,7 @@
 
 Representación gráfica básica que ha de manejar un científico de datos https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#gr%C3%A1ficos-de-tarta
 
-+variables cuantitativas 
++ variables cuantitativas 
 
 Histogramas
 
