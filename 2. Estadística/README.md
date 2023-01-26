@@ -15,10 +15,9 @@
 
 📗 Cuadernos de estadística
 
-📒 Introduction to Statistical Learning
-
 📙 Elements of Statistical Learning
 
-Introduction to Statistical Learning, sitio oficial https://lnkd.in/eujXgaHk 
+📒 Introduction to Statistical Learning, sitio oficial https://lnkd.in/eujXgaHk 
+
 ![SL](https://user-images.githubusercontent.com/82233779/214580622-de26d293-f849-4652-bc13-2226bec69089.PNG)
 
