@@ -1,6 +1,10 @@
 # 👩‍💻 Publicaciones
 
-#### 1. Power BI: material utilizado de referencia o en el proceso de aprendizaje y recursos para la seleccion de gráficos https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Graficas 
+#### 1. Power BI: 
+
++ Material utilizado de referencia o en el proceso de aprendizaje 
+
++ Recursos para la seleccion de gráficos https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Graficas 
 
 
 #### 2. Estadistica
