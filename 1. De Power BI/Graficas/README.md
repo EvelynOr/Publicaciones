@@ -2,10 +2,7 @@
 
 1. Tipos de visualización en #powerbi explicadas de forma sencilla https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a
 
-2. Visualización de Datos https://datavizcatalogue.com/ES/ e interpretacion de graficas https://statologos.com/ 
-![image](https://user-images.githubusercontent.com/82233779/214616710-6e4a180e-67b0-4347-a307-d74824fc5efa.png)
-
-Representación gráfica básica que ha de manejar un científico de datos https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#gr%C3%A1ficos-de-tarta
+2. Representación gráfica básica que ha de manejar un científico de datos https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#gr%C3%A1ficos-de-tarta
 
 + variables cuantitativas: Histogramas  - Gráficos de densidad  - Boxplot
 
@@ -13,5 +10,41 @@ Representación gráfica básica que ha de manejar un científico de datos https
 
 + visualizaciones con dos variables:  Gráficos de líneas  - Gráficos de puntos
 
+2.1 Visualización de Datos https://datavizcatalogue.com/ES/ e interpretacion de graficas https://statologos.com/ 
+![image](https://user-images.githubusercontent.com/82233779/214616710-6e4a180e-67b0-4347-a307-d74824fc5efa.png)
+
+2.2 Chart Selection Guide,  What do you want to show https://datavizcatalogue.com/blog/chart-selection-guide/ 
+
++ Distribution 
+
++ Comparisons
+
++ Data Over Time
+
++ Proportions
+
++ Geographical
+
++ Connections
+
++ Financial
+
++ Hierarchy
+
++ Parts-to-a-whole
+
++ Flow
+
++ Ranges
+
++ Correlations
+
++ Multi-variable Analysis
+
++ Uncertainty & Error
+
++ Showing Change
+
+![image](https://user-images.githubusercontent.com/82233779/214940117-7fc45af1-362b-47cc-ba21-84503b409aec.png)
 
 
