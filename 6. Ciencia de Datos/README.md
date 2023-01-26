@@ -12,4 +12,4 @@ variables cualitativas: Gráficas de tarta - Gráficos de barra
 
 visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 
-Explicacion por tipo de grafica en # español https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Graficas
+Explicacion por tipo de grafica https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Graficas
