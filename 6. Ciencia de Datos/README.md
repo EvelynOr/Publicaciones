@@ -13,3 +13,5 @@ variables cualitativas: Gráficas de tarta - Gráficos de barra
 visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 
 Otros tipos de grafica https://datavizcatalogue.com/ES/
+![image](https://user-images.githubusercontent.com/82233779/214942773-5b10420a-4534-417e-b788-7cec7ee13dcb.png)
+
