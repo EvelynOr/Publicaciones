@@ -9,7 +9,7 @@
 
 🔗 https://dogramcode.com/bloglibros/ciencia-de-datos?fbclid=IwAR3rtthx_lAFyS1nPE9GjW61dUEmAwD_kpu2fd9EXwZ1pzthdQgQLrjoU8k
 
-3. Libros de #estadistica para #cienciadedatos 
+3. Libros de #estadistica para #cienciadedatos https://www.youtube.com/watch?v=FGijGkeQOxA 
 
 📘 Naked Statistics
 
@@ -18,7 +18,6 @@
 📒 Introduction to Statistical Learning
 
 📙 Elements of Statistical Learning
-Fuente: https://lnkd.in/eqT8yXrY
 
 Introduction to Statistical Learning, sitio oficial https://lnkd.in/eujXgaHk 
 ![SL](https://user-images.githubusercontent.com/82233779/214580622-de26d293-f849-4652-bc13-2226bec69089.PNG)
