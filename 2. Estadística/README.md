@@ -25,7 +25,10 @@
 4. Sugiero para hacer un repaso rápido y sencillo de conceptos básicos de #estadistica en el contexto de #cienciadedatos.
 
 texto: https://lnkd.in/evcPDhTe
+
 github: https://lnkd.in/exqERUdZ
+
 autor: https://lnkd.in/eYQwdTWZ
+
 picture: phgtree 
 ![estaditica](https://user-images.githubusercontent.com/82233779/217120726-c70cd988-1983-4667-89f0-f03cf5b63900.jpg)
