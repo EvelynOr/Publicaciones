@@ -36,5 +36,7 @@ picture: phgtree
 5. Para hacer una lectura amena de temas de #probabilidad y #estadística, en contextos reales y explicado de forma sencilla.
 
 La primera edición corresponde a septiembre 2022. La autora es licenciada en Matemáticas y en Ciencias y Técnicas Estadísticas 🔗 https://anabelforte.com/
+
+
 ![EstadisticaA](https://user-images.githubusercontent.com/82233779/218484547-a048ea9b-5d5e-4e99-9e56-ea5a554f74c7.JPG)
 
