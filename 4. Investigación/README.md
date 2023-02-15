@@ -7,3 +7,6 @@
 3. Preguntas de investigación en tesis doctorales y en proyectos de investigación en ciencias sociales. Presenta 10 tratados que integran la revisión.  https://repositori.upf.edu/bitstream/handle/10230/35144/Codina_preguntas.pdf?sequence=1&isAllowed=y 
 ![Preguntas](https://user-images.githubusercontent.com/82233779/214617450-71ffde88-9b08-42bf-b7bc-b74b02e4bc54.PNG)
 
+4. Sugiero su revisión para quienes están iniciando algún trabajo de pregrado o postgrado. Presenta ejemplos didácticos 👌 La más reciente edición corresponde a 2012.
+🔗 https://www.administracion.usmp.edu.pe/investigacion/files/7-PASOS-PARA-UNA-TESIS-EXITOSA-Desde-la-idea-inicial-hasta-la-sustentaci%C3%B3n.pdf
+![Investigacion](https://user-images.githubusercontent.com/82233779/219097945-ee29952e-9567-4ddd-899b-4000c1ee7cdd.JPG)
