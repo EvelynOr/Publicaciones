@@ -47,4 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/82233779/214940117-7fc45af1-362b-47cc-ba21-84503b409aec.png)
 
+3. De Tableau Public, da 9 clasificaciones https://public.tableau.com/views/VisualVocabulary/VisualVocabulary?%3Aembed=y&%3Adisplay_count=yes&publish=yes&%3AshowVizHome=no&fbclid=IwAR03imsU1Jd5CPK1oH_fbiUoqRSng51CH_EdWbIdwHdJhyJpDMXLoGMwtoY 
+
+![image](https://user-images.githubusercontent.com/82233779/219751840-4ecf170f-e0de-4cf4-b888-8cadb18128d2.png)
 
