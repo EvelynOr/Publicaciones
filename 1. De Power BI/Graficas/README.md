@@ -67,3 +67,10 @@
 
 ![image](https://user-images.githubusercontent.com/82233779/219753706-f36cdf51-ffac-441f-af99-00331ed957d5.png)
 
+8. Recomendación | Lunes de #libros
+
+Recursos: https://lnkd.in/etr6uUer , https://lnkd.in/eewdApMS , https://docer.com.ar/
+
+![Sotytelligcondatos](https://user-images.githubusercontent.com/82233779/220147747-c8739879-cc32-4133-b2c4-aa023ff4c88d.JPG)
+
+
