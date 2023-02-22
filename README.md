@@ -19,6 +19,6 @@ Recursos para investigadores
 
 #### 5. Recursos para portafolio o practicar SQLServer 
 
-#### 6. ciencia de Dato
+#### 6. Ciencia de Datos
 
 #### 7. Economia 
