@@ -1,4 +1,4 @@
-# Recursos para Dashboards Icons, Stickers, Color, Vectores, Edición y + . . .
+# Recursos para Dashboards Icons, Stickers, Color, Vectores, Edición y + 
 
 
 ## 🍳 1. Icons, Stickers, 
