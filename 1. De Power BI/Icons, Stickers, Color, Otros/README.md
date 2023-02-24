@@ -1,4 +1,4 @@
-# Recursos para Dashboards 🍳 🌆  Icons, Stickers, Color, Vectores, Edición, Otros . . .
+# Recursos para Dashboards Icons, Stickers, Color, Vectores, Edición, Otros . . . #PowerBI
 
 
 ## 🍳 1. Icons, Stickers, 
