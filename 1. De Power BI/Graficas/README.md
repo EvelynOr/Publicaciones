@@ -73,4 +73,7 @@ Recursos: https://lnkd.in/etr6uUer , https://lnkd.in/eewdApMS , https://docer.co
 
 ![Sotytelligcondatos](https://user-images.githubusercontent.com/82233779/220147747-c8739879-cc32-4133-b2c4-aa023ff4c88d.JPG)
 
+https://www.storytellingwithdata.com/chart-guide 
 
+![image](https://user-images.githubusercontent.com/82233779/221350826-585eb551-c126-49a6-a71f-4a62ac937748.png)
+ 
