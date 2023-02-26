@@ -7,7 +7,7 @@
 
 2.1 ColorBrewer project: 
 
-ofrece una buena selección de escalas de color cualitativas, para distinguir elementos discretos o grupos que no tienen un orden intrínseco: como los distintos países de un mapa o los distintos fabricantes de un determinado producto
+ofrece una buena selección de escalas de color cualitativas: estos sirven para distinguir elementos discretos o grupos que no tienen un orden intrínseco: como los distintos países de un mapa o los distintos fabricantes de un determinado producto
 
 2.1.1 color advice for cartography: https://colorbrewer2.org/#type=sequential&scheme=BuPu&n=3 
 
