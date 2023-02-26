@@ -25,3 +25,4 @@ ofrece una buena selección de escalas de color cualitativas: estos sirven para 
 
 ## 👀 3. Edición
 
+3.1 Recortar imagenes en linea https://www.iloveimg.com/es/recortar-imagen
