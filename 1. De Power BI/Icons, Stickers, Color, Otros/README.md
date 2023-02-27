@@ -3,6 +3,8 @@
 
 ## 🍳 1. Icons, Stickers, 
 
+#
+
 ## 2. Colors
 
 USO DE LOS COLORES 
@@ -27,6 +29,19 @@ ofrece una buena selección de escalas de color cualitativas: estos sirven para 
 ![image](https://user-images.githubusercontent.com/82233779/221387440-49ebd839-6216-4b59-89b0-4d4fb1ff1912.png)
 
 2.1.4 RColorBrewer is an R package that contains a ready-to-use color palettes for creating beautiful graphics. https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/ 
+
+### 2.2 Otros recursos de colores 
+
+2.2.1 Palettes generatos  https://coolors.co/ 
+
+2.2.2 Adobe color https://color.adobe.com/es/create/color-wheel 
+
+2.2.3 canva colors https://www.canva.com/colors/ 
+
+2.2.4 Generador de temas de color https://analysthub.enterprisedna.co/apps/colour-generator 
+
+#
+
 
 ## 👀 3. Edición
 
