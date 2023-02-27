@@ -2,9 +2,9 @@
 
 ## 📚 Libros 
 
-### 1. Introducción a la Estadística para Científicos de Datos con R. Recomiendo para entender los fundamentos del tema, se presentan de forma sencilla  https://analisisydecision.es/estadistica-data-scientist/ 
+#### 1. Introducción a la Estadística para Científicos de Datos con R. Recomiendo para entender los fundamentos del tema, se presentan de forma sencilla  https://analisisydecision.es/estadistica-data-scientist/ 
 
-### 2. Representación gráfica básica que ha de manejar un científico de datos https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#basicos-ggplot
+#### 2. Representación gráfica básica que ha de manejar un científico de datos https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#basicos-ggplot
 
 variables cuantitativas: Histogramas - Gráficos de densidad - Boxplot
 
@@ -15,6 +15,6 @@ visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 Otros tipos de grafica https://datavizcatalogue.com/ES/
 ![image](https://user-images.githubusercontent.com/82233779/214942773-5b10420a-4534-417e-b788-7cec7ee13dcb.png)
 
-### 3. Análisis exploratorio de datos (EDA) es utilizado por los #científicosdedatos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de visualización de datos (ibm). https://www.itl.nist.gov/div898/handbook/toolaids/pff/eda.pdf 
+#### 3. Análisis exploratorio de datos (EDA) es utilizado por los #científicosdedatos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de visualización de datos (ibm). https://www.itl.nist.gov/div898/handbook/toolaids/pff/eda.pdf 
 
 ![EDA](https://user-images.githubusercontent.com/82233779/221620282-5ea77666-cc42-4814-8a05-8ccb9799b2d2.JPG)
