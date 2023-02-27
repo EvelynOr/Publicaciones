@@ -8,7 +8,7 @@
 USO DE LOS COLORES 
 
 ![image](https://user-images.githubusercontent.com/82233779/221472727-c14662da-c4fd-49bf-bbd0-5a6cd0d24765.png)
-
+Fuente: Fundamentals of Data Visualization. Claus O. Wilke.
 
 2.1 ColorBrewer project: 
 
