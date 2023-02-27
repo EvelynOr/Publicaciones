@@ -10,6 +10,11 @@
 USO DE LOS COLORES 
 
 ![image](https://user-images.githubusercontent.com/82233779/221472727-c14662da-c4fd-49bf-bbd0-5a6cd0d24765.png)
+
+
+![image](https://user-images.githubusercontent.com/82233779/221628039-e65e6a2d-c222-4f0e-9c48-f01b138fb443.png)
+
+
 Fuente: Fundamentals of Data Visualization. Claus O. Wilke.
 
 ### 2.1 ColorBrewer project: 
