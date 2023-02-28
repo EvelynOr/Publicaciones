@@ -77,3 +77,6 @@ https://www.storytellingwithdata.com/chart-guide
 
 ![image](https://user-images.githubusercontent.com/82233779/221350826-585eb551-c126-49a6-a71f-4a62ac937748.png)
  
+9. 39+ Great Graphs You Can Make in Microsoft Excel https://depictdatastudio.com/great-graphs-you-can-make-in-microsoft-excel/ 
+![image](https://user-images.githubusercontent.com/82233779/221875348-3202ef33-7a52-4ca4-a243-5108b043d6f4.png)
+
