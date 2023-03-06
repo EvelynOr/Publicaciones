@@ -40,3 +40,10 @@ La primera edición corresponde a septiembre 2022. La autora es licenciada en Ma
 
 ![EstadisticaA](https://user-images.githubusercontent.com/82233779/218484547-a048ea9b-5d5e-4e99-9e56-ea5a554f74c7.JPG)
 
+### 6. LibreTexts, generación de textos de acceso abierto para mejorar la educación en todos los niveles de educación superior. Tiene temas de biología, #negocios, física, #matemáticas y #estadistica, entre otros.
+Estadistica https://espanol.libretexts.org/Estadisticas 
+
+![Estadistica](https://user-images.githubusercontent.com/82233779/223190248-0f074d6f-3f6d-4c75-ba7c-4462358e947e.JPG)
+
+
+
