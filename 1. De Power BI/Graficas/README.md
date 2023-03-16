@@ -80,3 +80,12 @@ https://www.storytellingwithdata.com/chart-guide
 9. 39+ Great Graphs You Can Make in Microsoft Excel https://depictdatastudio.com/great-graphs-you-can-make-in-microsoft-excel/ 
 ![image](https://user-images.githubusercontent.com/82233779/221875348-3202ef33-7a52-4ca4-a243-5108b043d6f4.png)
 
+
+10. Clasificacion de graficas y codigo para realizarlas en Python y R 
+
+Python: https://www.python-graph-gallery.com/
+
+R: https://r-graph-gallery.com/
+
+![image](https://user-images.githubusercontent.com/82233779/225697886-85910e7c-bb53-4ee6-ac10-b4d079730270.png)
+ 
