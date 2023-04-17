@@ -1,6 +1,4 @@
-1. El libro consta de 49 capítulos cortos, y explica aspectos sorprendentes y muchas veces desconocidos de la #relación que existe entre el cerebro, la mente y aquello que nos #sucede. Los caminos que siguen el cerebro y la mente para crear esa realidad en la que vivimos, nuestra forma de percibir, de pensar, de sentir y de actuar.
-
-En todos nosotros existen cosas de las que sí nos estamos dando cuenta y otras de las que no 🥴.
+1. El libro consta de 49 capítulos cortos, y explica aspectos sorprendentes y muchas veces desconocidos de la #relación que existe entre el cerebro, la mente y aquello que nos #sucede. Los caminos que siguen el cerebro y la mente para crear esa realidad en la que vivimos, nuestra forma de percibir, de pensar, de sentir y de actuar. En todos nosotros existen cosas de las que sí nos estamos dando cuenta y otras de las que no 🥴.
 
 El 𝐚𝐮𝐭𝐨𝐫, el doctor Mario Alonso Puig es Fellow en Cirugía por la Universidad de Harvard en Boston, ITP por el IMD de Lausana, certificado en Coaching Sistémico por el Instituto Tavistock de Londres y en Hipnosis ericksoniana por el Instituto Milton Erickson de Scottsdale en Arizona, entre otros.
 
