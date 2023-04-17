@@ -21,4 +21,6 @@ Recursos para investigadores
 
 #### 6. Ciencia de Datos
 
-#### 7. Economia 
+#### 7. Economia: libros, informes económicos de diversas entidades internacionales   
+
+#### 8. Desarrollo Personal / Profesional
