@@ -36,3 +36,20 @@ El capita­lismo ha sobrevivido a las predicciones de su desaparición no, como 
 https://www.viruseditorial.net/es/libreria/fondo/9948/imaginando-el-final-del-capitalismo?fbclid=IwAR1KLvrR3M4akc95i5zX9CB50yDz_Wpqwt9mIUNqHOeDO0ZztFd41u2IPm8
 
 ![image](https://user-images.githubusercontent.com/82233779/232587886-e0a6fb47-6bfa-4b71-981b-229926cc0321.png)
+
+
+4. El análisis se hace con base a:
+a) las capacidades de tipo técnico , organizacional y político 
+b) el ciclo de vida de las políticas de adopción , operación y evaluación
+
+Temas desarrollados:
+- regímenes de incentivos fiscales y financieros 
+- programas de apoyo a la internacionalización productiva (resolver fallas de mercado que obstaculizan al sector exportador, entre otros)
+- políticas de infraestructura operativa, legal y física  
+- situación de los países de América Latina
+- diferentes capacidad y riesgos asociados a las distintas políticas examinadas
+- resumen de los objetivos y características de cada grupo de políticas y los requerimientos de capacidades
+
+informe: https://publications.iadb.org/publications/spanish/viewer/Como-apoyar-la-internacionalizacion-productiva-en-America-Latina-analisis-de-politicas-requerimientos-de-capacidades-estatales-y-riesgos.pdf 
+
+![image](https://user-images.githubusercontent.com/82233779/232588166-77d74e39-9eb0-45cb-88b1-b21c7493eb6c.png)
