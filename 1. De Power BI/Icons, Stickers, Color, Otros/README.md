@@ -5,7 +5,7 @@
 
 #
 
-## 🖍️ 🖍️ 2. Colors
+## 🖍️🖍️ 2. Colors
 
 USO DE LOS COLORES 
 
