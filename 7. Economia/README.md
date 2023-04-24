@@ -1,5 +1,5 @@
 
-##1. Este libro se ha utilizado para la enseñanza de conceptos económicos básicos de forma sencilla, en carreras de #ingeniería, #administración y #mercadotécnica, entre otras.
+### 1. Este libro se ha utilizado para la enseñanza de conceptos económicos básicos de forma sencilla, en carreras de #ingeniería, #administración y #mercadotécnica, entre otras.
 
 Para principiante se sugieren los siguiente temas:
 + CAPÍTULO 1: ¿Qué es la economía?
