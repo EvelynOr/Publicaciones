@@ -20,7 +20,7 @@ Otros tipos de grafica https://datavizcatalogue.com/ES/
 ![EDA](https://user-images.githubusercontent.com/82233779/221620282-5ea77666-cc42-4814-8a05-8ccb9799b2d2.JPG)
 
 
-#### 4. gUIA PARA HACER UN #EDA
+#### 4. Guia para hacer un #EDA
 + Infografia: https://datos.gob.es/sites/default/files/doc/file/infografia-analisis-exploratorio-datos-accesible.pdf 
 + Guia General: https://datos.gob.es/sites/default/files/doc/file/analisis_exploratorio_de_datos_2021_v6.pdf 
 
