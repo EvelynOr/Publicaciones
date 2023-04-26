@@ -18,3 +18,10 @@ Otros tipos de grafica https://datavizcatalogue.com/ES/
 #### 3. Análisis exploratorio de datos (EDA) es utilizado por los #científicosdedatos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de visualización de datos (ibm). https://www.itl.nist.gov/div898/handbook/toolaids/pff/eda.pdf 
 
 ![EDA](https://user-images.githubusercontent.com/82233779/221620282-5ea77666-cc42-4814-8a05-8ccb9799b2d2.JPG)
+
+
+#### 4. gUIA PARA HACER UN #EDA
++ Infografia: https://datos.gob.es/sites/default/files/doc/file/infografia-analisis-exploratorio-datos-accesible.pdf 
++ Guia General: https://datos.gob.es/sites/default/files/doc/file/analisis_exploratorio_de_datos_2021_v6.pdf 
+
+![EDA](https://user-images.githubusercontent.com/82233779/234687402-a7981b61-55dc-4393-a01e-edeaa7d5a691.JPG)
