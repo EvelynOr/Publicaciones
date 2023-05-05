@@ -89,3 +89,10 @@ R: https://r-graph-gallery.com/
 
 ![image](https://user-images.githubusercontent.com/82233779/225697886-85910e7c-bb53-4ee6-ac10-b4d079730270.png)
  
+ 
+ ### 11. Resumen de graficos
+ 
+ ![image](https://user-images.githubusercontent.com/82233779/236499723-2b640967-5d0a-4b20-b658-6ff394cfca30.png)
+ 
+ https://media.licdn.com/dms/image/D5622AQFNSjR9DfpO8Q/feedshare-shrink_2048_1536/0/1681745665439?e=1686182400&v=beta&t=dzFVGSj4W2XNALY8ZbPHGUaVN5bP1cln3n5HtPqq6vo 
+
