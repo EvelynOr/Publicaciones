@@ -8,7 +8,11 @@
 Access 10.3M+ vector icons & stickers
 https://www.flaticon.com/  
 
-### Vectors Photos  Videos Fonts  PSD https://www.freepik.com/ 
+### Vectors Photos  Videos Fonts  PSD 
+https://www.freepik.com/ 
+
+### Vídeos Fotos Ilustraciones Música Tendencias de búsqueda
+https://www.istockphoto.com/
 
 
 ## 🖍️🖍️ 2. Colors
