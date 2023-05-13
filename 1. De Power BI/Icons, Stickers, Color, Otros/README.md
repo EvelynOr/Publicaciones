@@ -4,8 +4,7 @@
 
 ## 🍳 1. Icons, Stickers,  Vectores
 
-### Icons 
-Access 10.3M+ vector icons & stickers
+### Icons Access 10.3M+ vector icons & stickers
 https://www.flaticon.com/  
 
 ### Vectors Photos  Videos Fonts  PSD 
