@@ -32,4 +32,5 @@ Otros tipos de grafica https://datavizcatalogue.com/ES/
 https://www.google.com/search?q=PyTorch+site%3Acolab.research.google.com 
 
 Ejemplo: full eda:colab.research.google.com
+
 Resultado: https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb
