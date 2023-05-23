@@ -35,3 +35,8 @@ https://www.google.com/search?q=PyTorch+site%3Acolab.research.google.com , PyTor
 Ejemplo: full eda:colab.research.google.com
 
 Resultado: https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb
+
+
+#### 6. The best way to learn math and computer science
+
+https://brilliant.org/?utm_medium=sponsor&utm_source=linkedin&utm_campaign=giannis_240423 
