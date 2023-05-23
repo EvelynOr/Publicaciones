@@ -29,7 +29,8 @@ Otros tipos de grafica https://datavizcatalogue.com/ES/
 
 #### 5. Buscar tema especificos en ncolab 
 
-https://www.google.com/search?q=PyTorch+site%3Acolab.research.google.com 
+
+https://www.google.com/search?q=PyTorch+site%3Acolab.research.google.com , PyTorch site:colab.research.google.com
 
 Ejemplo: full eda:colab.research.google.com
 
