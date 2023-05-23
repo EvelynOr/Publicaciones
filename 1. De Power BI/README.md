@@ -60,4 +60,5 @@ Eventos: https://www.lesphinx.es/eventos
 
 ![image](https://user-images.githubusercontent.com/82233779/234268144-f889787c-10ef-4ce1-9697-5771646244d3.png)
 
-
+### 10. Copilot in Power BI Demo
+https://www.youtube.com/watch?v=wr__6tM5U6I 
