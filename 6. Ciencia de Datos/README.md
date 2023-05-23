@@ -27,7 +27,7 @@ Otros tipos de grafica https://datavizcatalogue.com/ES/
 ![EDA](https://user-images.githubusercontent.com/82233779/234687402-a7981b61-55dc-4393-a01e-edeaa7d5a691.JPG)
 
 
-#### 5. Buscar tema especificos enncolab 
+#### 5. Buscar tema especificos en ncolab 
 
 https://www.google.com/search?q=PyTorch+site%3Acolab.research.google.com 
 
