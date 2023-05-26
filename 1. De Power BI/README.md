@@ -62,3 +62,12 @@ Eventos: https://www.lesphinx.es/eventos
 
 ### 10. Copilot in Power BI Demo
 https://www.youtube.com/watch?v=wr__6tM5U6I 
+
+### 11. Para #principiantes en el análisis de datos, para iniciar o mejorar su #portafolio
+
+🍁 𝟳 W𝗮𝘆𝘀 𝘁𝗼 𝗦𝘂𝗽𝗲𝗿𝗰𝗵𝗮𝗿𝗴𝗲 𝗬𝗼𝘂𝗿 𝗗𝗮𝘁𝗮 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼  👌
+https://media.licdn.com/dms/document/media/D561FAQH7PI2GnpjoxA/feedshare-document-pdf-analyzed/0/1684415570412?e=1685577600&v=beta&t=nXi-th6t0CmugT5jCGphYCtEonsVC0IOUdeo8WvMpA4
+
+🍂 𝟵 𝗼𝗳 𝘁𝗵𝗲 𝗕𝗲𝘀𝘁 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼𝘀 𝗼𝗻 𝘁𝗵𝗲 W𝗲𝗯
+(actualizado al 9 de mayo 2023)
+https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-examples/
