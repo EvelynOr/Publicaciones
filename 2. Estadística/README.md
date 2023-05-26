@@ -45,8 +45,8 @@ Estadistica https://espanol.libretexts.org/Estadisticas
 
 ![Estadistica](https://user-images.githubusercontent.com/82233779/223190248-0f074d6f-3f6d-4c75-ba7c-4462358e947e.JPG)
 
-### 7.
+### 7. Introducción a la estadística 
 ![image](https://github.com/EvelynOr/Publicaciones/assets/82233779/28e799c2-214d-4031-9bf5-6591c2c7a056)
-Introducción a la estadística 
+
 https://openstax.org/subjects/matematicas
 
