@@ -71,3 +71,7 @@ https://media.licdn.com/dms/document/media/D561FAQH7PI2GnpjoxA/feedshare-documen
 🍂 𝟵 𝗼𝗳 𝘁𝗵𝗲 𝗕𝗲𝘀𝘁 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼𝘀 𝗼𝗻 𝘁𝗵𝗲 W𝗲𝗯
 (actualizado al 9 de mayo 2023)
 https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-examples/
+
+
+How to Build a Data Analyst Portfolio That Will Get You Hired?
+https://www.projectpro.io/article/how-to-build-a-data-analyst-portfolio/529
