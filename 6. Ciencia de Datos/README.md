@@ -40,3 +40,6 @@ Resultado: https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/ma
 #### 6. The best way to learn math and computer science
 
 https://brilliant.org/?utm_medium=sponsor&utm_source=linkedin&utm_campaign=giannis_240423 
+
+#### 5. Ciencia de Datos para Ciencias Naturales
+https://bookdown.org/keilor_rojas/CienciaDatos/ 
