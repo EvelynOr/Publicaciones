@@ -41,5 +41,8 @@ Resultado: https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/ma
 
 https://brilliant.org/?utm_medium=sponsor&utm_source=linkedin&utm_campaign=giannis_240423 
 
-#### 5. Ciencia de Datos para Ciencias Naturales
+#### 7. Ciencia de Datos para Ciencias Naturales
 https://bookdown.org/keilor_rojas/CienciaDatos/ 
+
+#### 8. Google Colab – A Step-by-step Guide
+https://algotrading101.com/learn/google-colab-guide/ 
