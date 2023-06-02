@@ -46,3 +46,8 @@ https://bookdown.org/keilor_rojas/CienciaDatos/
 
 #### 8. Google Colab – A Step-by-step Guide
 https://algotrading101.com/learn/google-colab-guide/ 
+
+#### 9. Learn
+Gain the skills you need to do independent data science projects.
+
+https://www.kaggle.com/Learn
