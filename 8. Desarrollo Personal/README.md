@@ -44,4 +44,6 @@ Los mejores suplementos para la salud cerebral:
 · Vitaminas grupo B
 
 source: Karim A Nesr
+![cerebro](https://github.com/EvelynOr/Publicaciones/assets/82233779/fa574b28-2094-4584-b6ba-ca3cf1916f60)
+
 
