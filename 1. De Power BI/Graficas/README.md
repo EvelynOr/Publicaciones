@@ -96,3 +96,7 @@ R: https://r-graph-gallery.com/
  
  https://media.licdn.com/dms/image/D5622AQFNSjR9DfpO8Q/feedshare-shrink_2048_1536/0/1681745665439?e=1686182400&v=beta&t=dzFVGSj4W2XNALY8ZbPHGUaVN5bP1cln3n5HtPqq6vo 
 
+ ### 11.1
+ ![image](https://github.com/EvelynOr/Publicaciones/assets/82233779/33b30b3a-a962-4a18-a4d7-4ecd133f8876)
+
+
