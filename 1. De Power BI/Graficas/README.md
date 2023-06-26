@@ -100,6 +100,6 @@ R: https://r-graph-gallery.com/
  ![image](https://github.com/EvelynOr/Publicaciones/assets/82233779/33b30b3a-a962-4a18-a4d7-4ecd133f8876)
 
 
-### 12 
+### 12 How to Choose the Right Chart Type [Infographic]
 https://activewizards.com/blog/how-to-choose-the-right-chart-type-infographic/ 
  ![image](https://github.com/EvelynOr/Publicaciones/assets/82233779/7c6d9213-a357-4339-b952-cf62db25a80c)
