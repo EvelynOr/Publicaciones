@@ -4,7 +4,7 @@
 
 ## 🍳 1. Icons, Stickers,  Vectores
 
-### Vectors Photos  Videos
+### Vectors Photos  Videos Ideas para dashboard
 https://es.vecteezy.com/ 
 
 ### Icons Access 10.3M+ vector icons & stickers
