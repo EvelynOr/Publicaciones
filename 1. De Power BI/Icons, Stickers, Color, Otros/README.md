@@ -55,7 +55,7 @@ ofrece una buena selección de escalas de color cualitativas: estos sirven para 
 
 2.2.4 Generador de temas de color https://analysthub.enterprisedna.co/apps/colour-generator 
 
-#### 2.2.5 Colormind Logo Colormind 👌
+#### 2.2.5 Colormind 👌
 http://colormind.io/image/ 
 
 #
