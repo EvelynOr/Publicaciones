@@ -1,6 +1,6 @@
 ## ![PowerBI](https://user-images.githubusercontent.com/82233779/204108116-2a27c514-e70b-4993-b58c-a22a2d4d40a1.PNG)Power BI
 
-1. Resumen de DAXppt: el archivo presenta un resumen de los tipos de DAX (Expresiones de análisis de datos). La informacion general se encuentra en [Microsoft] (https://learn.microsoft.com/es-es/dax/dax-overview) 
+1. Resumen de DAXppt: el archivo presenta un resumen de los tipos de DAX (Expresiones de análisis de datos). La informacion general se encuentra en [Microsoft](https://learn.microsoft.com/es-es/dax/dax-overview). 
 
 2. Design effective reports in Power BI en #español, tiene seis módulos 👣 para no perderse en el autoaprendizaje 💻
 https://learn.microsoft.com/es-es/users/heyrob/collections/o4dhk4z8xpr8q?source=docs
