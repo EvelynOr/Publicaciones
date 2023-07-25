@@ -23,7 +23,9 @@
 
 #### 4.3 Seleccionar modelo [LazyPredict](https://www.linkedin.com/feed/update/urn:li:activity:7081721677385998336/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7081721677385998336%29)
 
+
 # 5. MISSING DATA
+
 
 
 #### 5.1 https://www.linkedin.com/feed/update/urn:li:activity:7085484188719587328/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7085484188719587328%29 
