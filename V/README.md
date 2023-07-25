@@ -21,7 +21,8 @@
 
 #### 4.2 La estandarización: https://www.linkedin.com/pulse/la-estandarizaci%2525C3%2525B3n-abner-huertas%3FtrackingId=WJDsvB8PTqCCoOgxJnfw3A%253D%253D/?trackingId=WJDsvB8PTqCCoOgxJnfw3A%3D%3D 
 
-### 5. MISSING DATA 
+### 5. MISSING DATA
+
 
 #### 5.1 https://www.linkedin.com/feed/update/urn:li:activity:7085484188719587328/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7085484188719587328%29 
 
