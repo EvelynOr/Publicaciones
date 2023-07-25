@@ -8,7 +8,7 @@
 # 2. OUTLIER 
 #### 2.1 Outlier detection: https://www.linkedin.com/feed/update/urn:li:activity:7085081623267864576/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7085081623267864576%29
 
-#### 22.2 https://www.linkedin.com/feed/update/urn:li:activity:7082007298302169088/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7082007298302169088%29
+#### 2.2 https://www.linkedin.com/feed/update/urn:li:activity:7082007298302169088/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7082007298302169088%29
 
 # 3. ALGORITMOS
 
@@ -25,7 +25,6 @@
 
 
 # 5. MISSING DATA
-
 
 
 #### 5.1 https://www.linkedin.com/feed/update/urn:li:activity:7085484188719587328/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7085484188719587328%29 
