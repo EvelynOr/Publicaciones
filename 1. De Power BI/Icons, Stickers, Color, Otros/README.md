@@ -58,7 +58,7 @@ ofrece una buena selección de escalas de color cualitativas: estos sirven para 
 #### 2.2.5 Colormind - Funciona en Power Bi 👌
 http://colormind.io/image/ 
 
-#
+2.2.6 coolors: https://coolors.co/palettes/popular 
 
 
 ## 👀 3. Edición
