@@ -26,6 +26,7 @@
 #### 5.1 https://www.linkedin.com/feed/update/urn:li:activity:7085484188719587328/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7085484188719587328%29 
 
 # 6. EDA
+
 #### 6.1 Automatizar EDA: https://www.linkedin.com/feed/update/urn:li:activity:7085218809606770689/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7085218809606770689%29 
 
 
