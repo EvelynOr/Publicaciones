@@ -34,7 +34,11 @@
 #### 6.1 Automatizar EDA: https://www.linkedin.com/feed/update/urn:li:activity:7085218809606770689/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7085218809606770689%29 
 
 
-# 7. APIs you can use to [pull data from](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7088198393948221440/?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7088198393205833729%2C7089721865807511552%29&dashCommentUrn=urn%3Ali%3Afsd%5Fcomment%3A%287089721865807511552%2Curn%3Ali%3AugcPost%3A7088198393205833729%29)
+# 7. APIs 
+
+7.1 you can use to [pull data from](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7088198393948221440/?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7088198393205833729%2C7089721865807511552%29&dashCommentUrn=urn%3Ali%3Afsd%5Fcomment%3A%287089721865807511552%2Curn%3Ali%3AugcPost%3A7088198393205833729%29)
+
+
 
 # Portafolio Paso 1: Como crear tu portafolio en Github: https://www.linkedin.com/pulse/paso-1-como-crear-tu-portafolio-en-github-leon-palafox%3FtrackingId=PZOSzRw4QKC%252BKdGEv0HLkw%253D%253D/?trackingId=PZOSzRw4QKC%2BKdGEv0HLkw%3D%3D 
 Paso 2: Como llenar mi repositorio de GitHub y cómo poner mis proyectos escolares. https://www.linkedin.com/pulse/paso-2-como-llenar-mi-repositorio-de-github-y-c%2525C3%2525B3mo-poner-leon-palafox%3FtrackingId=4%252Fc%252FQJzdRdaLs1mDXBHSIA%253D%253D/?trackingId=4%2Fc%2FQJzdRdaLs1mDXBHSIA%3D%3D 
