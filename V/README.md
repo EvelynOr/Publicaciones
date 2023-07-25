@@ -21,7 +21,7 @@
 
 #### 4.2 La estandarización: https://www.linkedin.com/pulse/la-estandarizaci%2525C3%2525B3n-abner-huertas%3FtrackingId=WJDsvB8PTqCCoOgxJnfw3A%253D%253D/?trackingId=WJDsvB8PTqCCoOgxJnfw3A%3D%3D 
 
-#### 4.3 Seleccionar modelo [LazyPredict](https://www.linkedin.com/feed/update/urn:li:activity:7081721677385998336/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7081721677385998336%29)
+#### 4.3 Seleccionar modelo [LazyPredict](https://www.linkedin.com/feed/update/urn:li:activity:7081721677385998336/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7081721677385998336%29) (https://pypi.org/project/lazypredict/)
 
 
 # 5. MISSING DATA
@@ -35,7 +35,7 @@
 
 
 
-### 5. Paso 1: Como crear tu portafolio en Github: https://www.linkedin.com/pulse/paso-1-como-crear-tu-portafolio-en-github-leon-palafox%3FtrackingId=PZOSzRw4QKC%252BKdGEv0HLkw%253D%253D/?trackingId=PZOSzRw4QKC%2BKdGEv0HLkw%3D%3D 
+# Portafolio Paso 1: Como crear tu portafolio en Github: https://www.linkedin.com/pulse/paso-1-como-crear-tu-portafolio-en-github-leon-palafox%3FtrackingId=PZOSzRw4QKC%252BKdGEv0HLkw%253D%253D/?trackingId=PZOSzRw4QKC%2BKdGEv0HLkw%3D%3D 
 Paso 2: Como llenar mi repositorio de GitHub y cómo poner mis proyectos escolares. https://www.linkedin.com/pulse/paso-2-como-llenar-mi-repositorio-de-github-y-c%2525C3%2525B3mo-poner-leon-palafox%3FtrackingId=4%252Fc%252FQJzdRdaLs1mDXBHSIA%253D%253D/?trackingId=4%2Fc%2FQJzdRdaLs1mDXBHSIA%3D%3D 
 
 
