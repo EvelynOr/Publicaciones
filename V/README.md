@@ -1,42 +1,14 @@
-# 1. ESTADISTICA
-#### 1.1 Pruebas de normalidad Python: https://www.linkedin.com/feed/update/urn:li:activity:7083011647165861888/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7083011647165861888%29 
-
-#### 1.2 ESTADÍSTICOS_BÁSICOS: https://github.com/bcamandone/Estadistica_analisis_datos/blob/main/ESTAD%C3%8DSTICOS_B%C3%81SICOS%20(3).ipynb  
 
 
 
-# 2. OUTLIER 
-#### 2.1 Outlier detection: https://www.linkedin.com/feed/update/urn:li:activity:7085081623267864576/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7085081623267864576%29
-
-#### 2.2 https://www.linkedin.com/feed/update/urn:li:activity:7082007298302169088/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7082007298302169088%29
-
-# 3. ALGORITMOS
-
-#### 3.1 Support Vector Machines [SVMs](https://www.linkedin.com/feed/update/urn:li:activity:7081844697211580416/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7081844697211580416%29)
-
-#### 3.2 Visualizar modelos de ML: https://www.linkedin.com/feed/update/urn:li:activity:7086718212918161408/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7086718212918161408%29 
-
-# 4. MODELADO
-#### 4.1  Shapash para Python ofrece y visualiza varios tipos de métodos de interpretabilidad para comprender las predicciones de su modelo: https://www.linkedin.com/feed/update/urn:li:activity:7085649151903850496/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7085649151903850496%29 
-
-#### 4.2 La estandarización: https://www.linkedin.com/pulse/la-estandarizaci%2525C3%2525B3n-abner-huertas%3FtrackingId=WJDsvB8PTqCCoOgxJnfw3A%253D%253D/?trackingId=WJDsvB8PTqCCoOgxJnfw3A%3D%3D 
-
-#### 4.3 Seleccionar modelo [LazyPredict](https://www.linkedin.com/feed/update/urn:li:activity:7081721677385998336/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7081721677385998336%29) (https://pypi.org/project/lazypredict/)
 
 
-# 5. MISSING DATA
 
 
-#### 5.1 https://www.linkedin.com/feed/update/urn:li:activity:7085484188719587328/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7085484188719587328%29 
-
-# 6. EDA
-
-#### 6.1 Automatizar EDA: https://www.linkedin.com/feed/update/urn:li:activity:7085218809606770689/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7085218809606770689%29 
+ 
 
 
-# 7. APIs 
 
-#### 7.1 you can use to [pull data from](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7088198393948221440/?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7088198393205833729%2C7089721865807511552%29&dashCommentUrn=urn%3Ali%3Afsd%5Fcomment%3A%287089721865807511552%2Curn%3Ali%3AugcPost%3A7088198393205833729%29)
 
 
 ###=.=.=.=.=.=.=.=.=.=.=..=
