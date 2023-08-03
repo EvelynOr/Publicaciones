@@ -19,14 +19,6 @@ https://www.istockphoto.com/
 
 ## 🖍️🖍️ 2. Colors
 
-USO DE LOS COLORES 
-
-
-![image](https://user-images.githubusercontent.com/82233779/221628039-e65e6a2d-c222-4f0e-9c48-f01b138fb443.png)
-
-
-Fuente: Fundamentals of Data Visualization. Claus O. Wilke.
-
 ### 2.1 ColorBrewer project: 
 
 ofrece una buena selección de escalas de color cualitativas: estos sirven para distinguir elementos discretos o grupos que no tienen un orden intrínseco: como los distintos países de un mapa o los distintos fabricantes de un determinado producto
