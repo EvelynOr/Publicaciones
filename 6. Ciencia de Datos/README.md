@@ -4,6 +4,11 @@
 
 #### 1. Introducción a la Estadística para Científicos de Datos con R. Recomiendo para entender los fundamentos del tema, se presentan de forma sencilla  https://analisisydecision.es/estadistica-data-scientist/ 
 
+#### Data Science for Economics and Finance – Methodologies and Applications
+https://link.springer.com/book/10.1007/978-3-030-66891-4 
+
+
+##  Otros 
 #### 2. Representación gráfica básica que ha de manejar un científico de datos https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#basicos-ggplot
 
 variables cuantitativas: Histogramas - Gráficos de densidad - Boxplot
