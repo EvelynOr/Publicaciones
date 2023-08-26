@@ -52,6 +52,7 @@ https://openstax.org/subjects/matematicas
 
 ### 8. six FREE books to learn R today
 https://www.linkedin.com/posts/evelyn-ortiz_academia-research-phd-activity-7097576831603630080-F8ef?utm_source=share&utm_medium=member_desktop 
+![R](https://github.com/EvelynOr/Publicaciones/assets/82233779/b2a29836-6266-4437-9364-5aeb5bdd5ebd)
 
-![image](https://www.linkedin.com/feed/update/urn:li:activity:7097576831603630080/)
+
 
