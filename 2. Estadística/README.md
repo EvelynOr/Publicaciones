@@ -51,6 +51,7 @@ Estadistica https://espanol.libretexts.org/Estadisticas
 https://openstax.org/subjects/matematicas
 
 ### 8. six FREE books to learn R today
-https://www.linkedin.com/feed/update/urn:li:activity:7097553078555480064/ 
+https://www.linkedin.com/posts/evelyn-ortiz_academia-research-phd-activity-7097576831603630080-F8ef?utm_source=share&utm_medium=member_desktop 
+
 ![image](https://www.linkedin.com/feed/update/urn:li:activity:7097576831603630080/)
 
