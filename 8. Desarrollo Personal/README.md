@@ -1,4 +1,4 @@
-1. https://www.linkedin.com/search/results/all/?keywords=El%20libro%20consta%20de%2049%20cap%C3%ADtulos%20cortos%2C%20y%20explica&origin=GLOBAL_SEARCH_HEADER&sid=D%3BE 
+1. [Nota](https://www.linkedin.com/search/results/all/?keywords=El%20libro%20consta%20de%2049%20cap%C3%ADtulos%20cortos%2C%20y%20explica&origin=GLOBAL_SEARCH_HEADER&sid=D%3BE) 
 
 ![image](https://user-images.githubusercontent.com/82233779/232590960-7ece8a1e-bdb4-47d9-9629-9fdda8cb5959.png)
 
