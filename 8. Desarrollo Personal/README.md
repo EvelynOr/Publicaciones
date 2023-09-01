@@ -1,9 +1,10 @@
 # Publicaciones
 
-###  [Proteger y mejorar la salud del cerebro](https://github.com/EvelynOr/Publicaciones/assets/82233779/fa574b28-2094-4584-b6ba-ca3cf1916f60)
+####  [Proteger y mejorar la salud del cerebro](https://github.com/EvelynOr/Publicaciones/assets/82233779/fa574b28-2094-4584-b6ba-ca3cf1916f60)
 
-### [From #harvard: W𝗮𝘆𝘀 𝘁𝗼 𝗰𝘂𝗹𝘁𝗶𝘃𝗮𝘁𝗲 𝗴𝗿𝗮𝘁𝗶𝘁𝘂𝗱𝗲](https://www.linkedin.com/in/evelyn-ortiz/recent-activity/all/)
+#### [From #harvard: W𝗮𝘆𝘀 𝘁𝗼 𝗰𝘂𝗹𝘁𝗶𝘃𝗮𝘁𝗲 𝗴𝗿𝗮𝘁𝗶𝘁𝘂𝗱𝗲](https://www.linkedin.com/in/evelyn-ortiz/recent-activity/all/)
 
+#### [𝗟𝗼𝘀 𝘁𝗿𝘂𝗰𝗼𝘀 𝗽𝗮𝗿𝗮 𝘀𝗲𝗿 𝗺𝗮́𝘀 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝗮𝗻𝘁𝗲 𝗮𝗹 𝗵𝗮𝗯𝗹𝗮𝗿 𝘆 𝗲𝘀𝗰𝗿𝗶𝗯𝗶𝗿, 𝘀𝗲𝗴𝘂́𝗻 𝗹𝗮 𝗰𝗶𝗲𝗻𝗰𝗶𝗮](https://www.linkedin.com/posts/evelyn-ortiz_ciencia-botox-innovation-activity-7103423021230497792-nWXt?utm_source=share&utm_medium=member_desktop)
 
 # Libros
 
