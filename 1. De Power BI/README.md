@@ -78,3 +78,6 @@ https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-exampl
 
 How to Build a Data Analyst Portfolio That Will Get You Hired?
 https://www.projectpro.io/article/how-to-build-a-data-analyst-portfolio/529
+
+
+🍹 Interfaz similar a Tableau, lo que le permite analizar datos más rápido y sin código, 𝐏𝐲𝐆𝐖𝐚𝐥𝐤𝐞𝐫 𝐞𝐬 𝐞𝐥 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 𝐩𝐚𝐫𝐚 𝐉𝐮𝐩𝐲𝐭𝐞𝐫 𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤 https://www.linkedin.com/posts/pfzambra_%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F-%3F%3F-%3F%3F%3F%3F%3F%3F-activity-7103402838793277442-LHOt?utm_source=share&utm_medium=member_desktop , https://github.com/Kanaries/pygwalker?q=2 
