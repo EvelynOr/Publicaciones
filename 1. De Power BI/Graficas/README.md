@@ -103,3 +103,8 @@ R: https://r-graph-gallery.com/
 ### 12 How to Choose the Right Chart Type [Infographic]
 https://activewizards.com/blog/how-to-choose-the-right-chart-type-infographic/ 
  ![image](https://github.com/EvelynOr/Publicaciones/assets/82233779/7c6d9213-a357-4339-b952-cf62db25a80c)
+
+
+### 13 Inspiracion para visualizacion de datos
+https://www.linkedin.com/posts/yusnelkis_dataviz-dataliteracy-datavisualization-activity-7103410777142779904-4oSA?utm_source=share&utm_medium=member_desktop  
+
