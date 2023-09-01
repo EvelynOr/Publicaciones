@@ -16,6 +16,8 @@ https://www.freepik.com/
 ### Vídeos Fotos Ilustraciones Música Tendencias de búsqueda
 https://www.istockphoto.com/
 
+### Iconos, ilustraciones, fotos, música y herramientas de diseño
+https://iconos8.es/icons
 
 ## 🖍️🖍️ 2. Colors
 
