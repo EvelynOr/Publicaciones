@@ -18,6 +18,7 @@ https://www.istockphoto.com/
 
 ### Iconos, ilustraciones, fotos, música y herramientas de diseño
 https://iconos8.es/icons
+Se sube una muestra de lo que se está buscando 
 
 ## 🖍️🖍️ 2. Colors
 
