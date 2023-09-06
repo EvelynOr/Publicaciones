@@ -83,6 +83,8 @@ https://www.storytellingwithdata.com/chart-guide
 
 10. Clasificacion de graficas y codigo para realizarlas en Python y R 
 
+General: https://www.data-to-viz.com/
+
 Python: https://www.python-graph-gallery.com/
 
 R: https://r-graph-gallery.com/
