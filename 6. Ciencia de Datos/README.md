@@ -9,8 +9,8 @@ https://link.springer.com/book/10.1007/978-3-030-66891-4
 
 #### Ciencia de los Datos [Propuestas y casos de uso](https://www.researchgate.net/profile/Jose-Gabriel-Rodriguez-Rivas/publication/349782580_Ciencia_de_los_Datos_Propuestas_y_casos_de_uso/links/60419c394585154e8c77f006/Ciencia-de-los-Datos-Propuestas-y-casos-de-uso.pdf) Tecnológico Nacional de Mexico, Septiembre 2020. 
 
-#### 100+ Best Free Machine Learning Books.
-https://www.linkedin.com/posts/evelyn-ortiz_libros-machinelearning-github-activity-7107046581748555776-siTM?utm_source=share&utm_medium=member_desktop 
+#### 100+ Best Free Machine Learning [Books](https://www.linkedin.com/posts/evelyn-ortiz_libros-machinelearning-github-activity-7107046581748555776-siTM?utm_source=share&utm_medium=member_desktop).
+
 
 
 ##  Otros 
