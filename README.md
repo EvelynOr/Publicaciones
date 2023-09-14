@@ -8,7 +8,7 @@
 
 + Icons, Color, [Edición](https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Icons%2C%20Stickers%2C%20Color%2C%20Otros)
   
-#### 2. Estadistica
+#### 2. [Estadistica](https://github.com/EvelynOr/Publicaciones/tree/main/2.%20Estad%C3%ADstica)
 
 
 #### 3. Series de Tiempo y Pronósticos
