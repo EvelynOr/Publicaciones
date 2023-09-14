@@ -6,7 +6,8 @@
 
 + [Recursos](https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Graficas) para la seleccion de gráficos-visualizacion 
 
-
++ Icons, Color, [Edición](https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Icons%2C%20Stickers%2C%20Color%2C%20Otros)
+  
 #### 2. Estadistica
 
 
