@@ -1,5 +1,7 @@
 # Publicaciones
 
+- Cinco trucos mentales para salir de [momentos difíciles](https://www.linkedin.com/posts/evelyn-ortiz_recursos-reprogramar-oportunidades-activity-7029825797989224448-ANwc?utm_source=share&utm_medium=member_desktop)
+
 -  [Proteger y mejorar la salud del cerebro](https://github.com/EvelynOr/Publicaciones/assets/82233779/fa574b28-2094-4584-b6ba-ca3cf1916f60)
 
 - [From #harvard: W𝗮𝘆𝘀 𝘁𝗼 𝗰𝘂𝗹𝘁𝗶𝘃𝗮𝘁𝗲 𝗴𝗿𝗮𝘁𝗶𝘁𝘂𝗱𝗲](https://www.linkedin.com/in/evelyn-ortiz/recent-activity/all/)
