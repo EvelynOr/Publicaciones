@@ -28,10 +28,11 @@ Recursos para investigadores
 
 
 # Bajar libros
-## de pago
+####  de pago
 - https://z-lib.is/
-- 
-## free 
+
+  
+#### free 
 
 # Otros
 
