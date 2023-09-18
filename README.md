@@ -33,7 +33,7 @@ Recursos para investigadores
 
   
 #### free 
-- 10 Páginas para Descargar Libros PDF GRATIS en español
+- 10 Páginas para Descargar Libros PDF GRATIS en [español](https://claudioinacio.com/2022/01/31/descargar-libros-pdf-gratis-espanol-completos/)
 
   
 # Otros
