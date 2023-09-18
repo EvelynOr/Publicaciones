@@ -2,7 +2,7 @@
 
 - Cinco trucos mentales para salir de [momentos difíciles](https://www.linkedin.com/posts/evelyn-ortiz_recursos-reprogramar-oportunidades-activity-7029825797989224448-ANwc?utm_source=share&utm_medium=member_desktop)
 
--  [Proteger y mejorar la salud del cerebro](https://github.com/EvelynOr/Publicaciones/assets/82233779/fa574b28-2094-4584-b6ba-ca3cf1916f60)
+-  Proteger y mejorar la salud [del cerebro](https://github.com/EvelynOr/Publicaciones/assets/82233779/fa574b28-2094-4584-b6ba-ca3cf1916f60)
 
 -  ¿𝗖𝗼́𝗺𝗼 𝗰𝘂𝗶𝗱𝗮𝗿 𝗻𝘂𝗲𝘀𝘁𝗿𝗮 [𝗺𝗲𝗻𝘁𝗲?](https://www.linkedin.com/posts/evelyn-ortiz_rrhh-datos-cienciadedatos-activity-7095277669377810432-8SWZ?utm_source=share&utm_medium=member_desktop)
   
