@@ -12,7 +12,6 @@
 # Libros
 
 - Resetea tu [mente ](https://www.linkedin.com/search/results/all/?
-![image](https://user-images.githubusercontent.com/82233779/232590960-7ece8a1e-bdb4-47d9-9629-9fdda8cb5959.png)
 
 - La vida secreta del [cerebro](https://www.linkedin.com/search/results/all/?keywords=nos%20hallamos%20en%20medio%20de%20una%20revoluci%C3%B3n%20en%20nuestra&origin=GLOBAL_SEARCH_HEADER&sid=.bW) 
 
