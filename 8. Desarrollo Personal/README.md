@@ -11,7 +11,7 @@
 
 # Libros
 
-- Resetea tu [mente ](https://www.linkedin.com/search/results/all/?
+- Resetea tu [mente](https://www.linkedin.com/posts/evelyn-ortiz_libros-relaciaejn-sucede-activity-7043625709352677376-rBUR?utm_source=share&utm_medium=member_desktop)
 
 - La vida secreta del [cerebro](https://www.linkedin.com/search/results/all/?keywords=nos%20hallamos%20en%20medio%20de%20una%20revoluci%C3%B3n%20en%20nuestra&origin=GLOBAL_SEARCH_HEADER&sid=.bW) 
 
