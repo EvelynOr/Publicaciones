@@ -13,37 +13,7 @@
 2.1 Visualización de [Datos](https://datavizcatalogue.com/ES/)  e interpretacion de [graficas](https://statologos.com/) 
 ![image](https://user-images.githubusercontent.com/82233779/214616710-6e4a180e-67b0-4347-a307-d74824fc5efa.png)
 
-2.2 Chart Selection Guide,  What do you want to show https://datavizcatalogue.com/blog/chart-selection-guide/ 
-
-+ Distribution 
-
-+ Comparisons
-
-+ Data Over Time
-
-+ Proportions
-
-+ Geographical
-
-+ Connections
-
-+ Financial
-
-+ Hierarchy
-
-+ Parts-to-a-whole
-
-+ Flow
-
-+ Ranges
-
-+ Correlations
-
-+ Multi-variable Analysis
-
-+ Uncertainty & Error
-
-+ Showing Change
+2.2 Chart Selection Guide,  What do you want to [show](https://datavizcatalogue.com/blog/chart-selection-guide/) 
 
 ![image](https://user-images.githubusercontent.com/82233779/214940117-7fc45af1-362b-47cc-ba21-84503b409aec.png)
 
