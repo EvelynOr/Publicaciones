@@ -1,8 +1,8 @@
 # Links y archivos para tipos de gráficos 
 
-1. Tipos de visualización en #powerbi explicadas de forma sencilla https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a
+1. Tipos de visualización en #powerbi explicadas de [forma sencilla](https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a) 
 
-2. Representación gráfica básica que ha de manejar un científico de datos https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#gr%C3%A1ficos-de-tarta
+2. Representación gráfica básica que ha de manejar un [científico de datos](https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#gr%C3%A1ficos-de-tarta) 
 
 + variables cuantitativas: Histogramas  - Gráficos de densidad  - Boxplot
 
