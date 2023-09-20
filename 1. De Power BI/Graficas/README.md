@@ -10,7 +10,7 @@
 
 + visualizaciones con dos variables:  Gráficos de líneas  - Gráficos de puntos
 
-2.1 Visualización de Datos https://datavizcatalogue.com/ES/ e interpretacion de graficas https://statologos.com/ 
+2.1 Visualización de [Datos](https://datavizcatalogue.com/ES/)  e interpretacion de [graficas](https://statologos.com/) 
 ![image](https://user-images.githubusercontent.com/82233779/214616710-6e4a180e-67b0-4347-a307-d74824fc5efa.png)
 
 2.2 Chart Selection Guide,  What do you want to show https://datavizcatalogue.com/blog/chart-selection-guide/ 
