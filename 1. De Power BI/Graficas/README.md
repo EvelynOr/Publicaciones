@@ -72,6 +72,11 @@ R: https://r-graph-gallery.com/
  ![image](https://github.com/EvelynOr/Publicaciones/assets/82233779/33b30b3a-a962-4a18-a4d7-4ecd133f8876)
 
 
+### 11.[2](https://twitter.com/starboy_abefe/status/1703365910734463215/photo/1)
+![F6OJfO1WIAA_](https://github.com/EvelynOr/Publicaciones/assets/82233779/eff1b9d2-67a8-454b-87fc-302b3a15929a)
+
+
+
 ### 12 How to Choose the Right Chart Type [Infographic]
 https://activewizards.com/blog/how-to-choose-the-right-chart-type-infographic/ 
  ![image](https://github.com/EvelynOr/Publicaciones/assets/82233779/7c6d9213-a357-4339-b952-cf62db25a80c)
