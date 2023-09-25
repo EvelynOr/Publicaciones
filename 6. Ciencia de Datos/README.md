@@ -20,6 +20,7 @@
 
 - Data Science for Economics and Finance – Methodologies and [Applications](https://link.springer.com/book/10.1007/978-3-030-66891-4)
 
+- Ciencia de Datos para [Ciencias Naturales](https://bookdown.org/keilor_rojas/CienciaDatos/) 
 
 - Ciencia de los Datos [Propuestas y casos de uso](https://www.researchgate.net/profile/Jose-Gabriel-Rodriguez-Rivas/publication/349782580_Ciencia_de_los_Datos_Propuestas_y_casos_de_uso/links/60419c394585154e8c77f006/Ciencia-de-los-Datos-Propuestas-y-casos-de-uso.pdf) Tecnológico Nacional de Mexico, Septiembre 2020. 
 
@@ -52,8 +53,7 @@ https://www.google.com/search?q=PyTorch+site%3Acolab.research.google.com , PyTor
 
 https://brilliant.org/?utm_medium=sponsor&utm_source=linkedin&utm_campaign=giannis_240423 
 
-#### 7. Ciencia de Datos para Ciencias Naturales
-https://bookdown.org/keilor_rojas/CienciaDatos/ 
+
 
 #### 8. Google Colab – A Step-by-step Guide
 https://algotrading101.com/learn/google-colab-guide/ 
