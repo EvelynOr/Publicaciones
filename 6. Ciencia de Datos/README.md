@@ -2,10 +2,10 @@
 
 ## 📚 Libros 
 
-- Introducción a la Estadística para Científicos de Datos con R. Recomiendo para entender los fundamentos del tema, se presentan de forma sencilla  https://analisisydecision.es/estadistica-data-scientist/ 
+- Introducción a la Estadística para Científicos de [Datos con R](https://analisisydecision.es/estadistica-data-scientist/). Recomiendo para entender los fundamentos del tema, se presentan de forma sencilla. 
 
-- Data Science for Economics and Finance – Methodologies and Applications
-https://link.springer.com/book/10.1007/978-3-030-66891-4 
+- Data Science for Economics and Finance – Methodologies and [Applications](https://link.springer.com/book/10.1007/978-3-030-66891-4)
+
 
 - Ciencia de los Datos [Propuestas y casos de uso](https://www.researchgate.net/profile/Jose-Gabriel-Rodriguez-Rivas/publication/349782580_Ciencia_de_los_Datos_Propuestas_y_casos_de_uso/links/60419c394585154e8c77f006/Ciencia-de-los-Datos-Propuestas-y-casos-de-uso.pdf) Tecnológico Nacional de Mexico, Septiembre 2020. 
 
