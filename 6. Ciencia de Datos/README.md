@@ -1,5 +1,19 @@
 # Material  para Ciencia de Datos 
 
+## Datasets
+
+## EDA
+- Análisis exploratorio de datos [EDA](https://www.linkedin.com/posts/evelyn-ortiz_libros-cientaedficosdedatos-eda-activity-7036002863554129920-_Ami?utm_source=share&utm_medium=member_desktop) es utilizado por los científicos de datos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de visualización de datos (ibm).
+
+
+- Guia para hacer un [EDA](https://www.linkedin.com/posts/evelyn-ortiz_eda-cienciadedatos-datacleansing-activity-7057080028211081216-bv4P?utm_source=share&utm_medium=member_desktop)
+
+- Ejemplo EDA con [Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb)
+
+
+
+
+
 ## 📚 Libros 
 
 - Introducción a la Estadística para Científicos de [Datos con R](https://analisisydecision.es/estadistica-data-scientist/). Recomiendo para entender los fundamentos del tema, se presentan de forma sencilla. 
@@ -13,9 +27,9 @@
 
 - Ciencia de datos desde cero. Principios básicos con Python. Joel Grus. [O'REILLY](https://www.linkedin.com/posts/evelyn-ortiz_libros-bigdata-analytics-activity-7109573176556154881-YPDV?utm_source=share&utm_medium=member_desktop)   
 
-# Datasets
 
- 
+# Graficas
+
 - Representación [gráfica básica](https://www.linkedin.com/posts/evelyn-ortiz_graerfica-spanish-cienciadedatos-activity-7024743772915662848-eel4?utm_source=share&utm_medium=member_desktop) que ha de manejar un científico de datos:
 
 variables cuantitativas: Histogramas - Gráficos de densidad - Boxplot
@@ -27,24 +41,14 @@ visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 [Repositorio](https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Graficas)
 
 
-- Análisis exploratorio de datos [EDA](https://www.linkedin.com/posts/evelyn-ortiz_libros-cientaedficosdedatos-eda-activity-7036002863554129920-_Ami?utm_source=share&utm_medium=member_desktop) es utilizado por los científicos de datos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de visualización de datos (ibm).
 
-
-- Guia para hacer un [EDA](https://www.linkedin.com/posts/evelyn-ortiz_eda-cienciadedatos-datacleansing-activity-7057080028211081216-bv4P?utm_source=share&utm_medium=member_desktop)
-
-
-
-#### 5. Buscar tema especificos en ncolab 
-
-
+- Buscar tema especificos en colab 
 https://www.google.com/search?q=PyTorch+site%3Acolab.research.google.com , PyTorch site:colab.research.google.com
 
-Ejemplo: full eda:colab.research.google.com
-
-Resultado: https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb
 
 
-#### 6. The best way to learn math and computer science
+
+- The best way to learn math and computer science
 
 https://brilliant.org/?utm_medium=sponsor&utm_source=linkedin&utm_campaign=giannis_240423 
 
