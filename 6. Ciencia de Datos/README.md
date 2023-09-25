@@ -27,7 +27,7 @@ visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 Otros tipos de grafica https://datavizcatalogue.com/ES/
 ![image](https://user-images.githubusercontent.com/82233779/214942773-5b10420a-4534-417e-b788-7cec7ee13dcb.png)
 
-#### 3. Análisis exploratorio de datos (EDA) es utilizado por los científicos de datos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de (visualización de datos) (ibm)[https://www.linkedin.com/posts/evelyn-ortiz_libros-cientaedficosdedatos-eda-activity-7036002863554129920-_Ami?utm_source=share&utm_medium=member_desktop]. 
+#### 3. Análisis exploratorio de datos (EDA) es utilizado por los científicos de datos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de (visualización de datos) (ibm))[https://www.linkedin.com/posts/evelyn-ortiz_libros-cientaedficosdedatos-eda-activity-7036002863554129920-_Ami?utm_source=share&utm_medium=member_desktop]
 
 
 #### 4. Guia para hacer un #EDA
