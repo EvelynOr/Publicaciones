@@ -57,7 +57,7 @@ visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 
 - Buscar tema especificos [en colab](https://www.google.com/search?q=PyTorch+site%3Acolab.research.google.com , PyTorch site:colab.research.google.com)
 
-- The best way to learn [math and computer science](https://brilliant.org/?utm_medium=sponsor&utm_source=linkedin&utm_campaign=giannis_240423) 
+- The best way to learn [math and computer science](https://brilliant.org/?utm_medium=sponsor&utm_source=linkedin&utm_campaign=giannis_240423)
 
 
 
