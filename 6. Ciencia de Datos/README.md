@@ -27,14 +27,11 @@ visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 Otros tipos de grafica https://datavizcatalogue.com/ES/
 ![image](https://user-images.githubusercontent.com/82233779/214942773-5b10420a-4534-417e-b788-7cec7ee13dcb.png)
 
-#### 3. Análisis exploratorio de datos [EDA](https://www.linkedin.com/posts/evelyn-ortiz_libros-cientaedficosdedatos-eda-activity-7036002863554129920-_Ami?utm_source=share&utm_medium=member_desktop) es utilizado por los científicos de datos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de visualización de datos (ibm).
+- Análisis exploratorio de datos [EDA](https://www.linkedin.com/posts/evelyn-ortiz_libros-cientaedficosdedatos-eda-activity-7036002863554129920-_Ami?utm_source=share&utm_medium=member_desktop) es utilizado por los científicos de datos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de visualización de datos (ibm).
 
 
-#### 4. Guia para hacer un #EDA
-+ Infografia: https://datos.gob.es/sites/default/files/doc/file/infografia-analisis-exploratorio-datos-accesible.pdf 
-+ Guia General: https://datos.gob.es/sites/default/files/doc/file/analisis_exploratorio_de_datos_2021_v6.pdf 
+- Guia para hacer un [EDA](https://www.linkedin.com/posts/evelyn-ortiz_eda-cienciadedatos-datacleansing-activity-7057080028211081216-bv4P?utm_source=share&utm_medium=member_desktop)
 
-![EDA](https://user-images.githubusercontent.com/82233779/234687402-a7981b61-55dc-4393-a01e-edeaa7d5a691.JPG)
 
 
 #### 5. Buscar tema especificos en ncolab 
