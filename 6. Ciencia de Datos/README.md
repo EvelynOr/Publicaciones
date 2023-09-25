@@ -15,8 +15,8 @@ https://link.springer.com/book/10.1007/978-3-030-66891-4
 
 # Datasets
 
-##  Otros 
-#### 2. Representación gráfica básica que ha de manejar un científico de datos https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#basicos-ggplot
+ 
+- Representación [gráfica básica](https://www.linkedin.com/posts/evelyn-ortiz_graerfica-spanish-cienciadedatos-activity-7024743772915662848-eel4?utm_source=share&utm_medium=member_desktop) que ha de manejar un científico de datos:
 
 variables cuantitativas: Histogramas - Gráficos de densidad - Boxplot
 
