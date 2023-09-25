@@ -13,6 +13,7 @@ https://link.springer.com/book/10.1007/978-3-030-66891-4
 
 - Ciencia de datos desde cero. Principios básicos con Python. Joel Grus. [O'REILLY](https://www.linkedin.com/posts/evelyn-ortiz_libros-bigdata-analytics-activity-7109573176556154881-YPDV?utm_source=share&utm_medium=member_desktop)   
 
+# Datasets
 
 ##  Otros 
 #### 2. Representación gráfica básica que ha de manejar un científico de datos https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#basicos-ggplot
