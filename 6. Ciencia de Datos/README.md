@@ -55,7 +55,7 @@ visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 
 - Google Colab – [A Step-by-step Guide](https://algotrading101.com/learn/google-colab-guide/)
 
-- Buscar tema especificos [en colab](https://www.google.com/search?q=PyTorch+site%3Acolab.research.google.com , PyTorch site:colab.research.google.com)
+- Buscar tema especificos [en colab](https://www.google.com/search?q=PyTorch+site%3Acolab.research.google.com)
 
 - The best way to learn [math and computer science](https://brilliant.org/?utm_medium=sponsor&utm_source=linkedin&utm_campaign=giannis_240423)
 
