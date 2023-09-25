@@ -24,7 +24,7 @@ variables cualitativas: Gráficas de tarta - Gráficos de barra
 
 visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 
-Otros tipos de [grafica](https://datavizcatalogue.com/ES/) y [repositorio](https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Graficas)
+[Repositorio](https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Graficas)
 
 
 - Análisis exploratorio de datos [EDA](https://www.linkedin.com/posts/evelyn-ortiz_libros-cientaedficosdedatos-eda-activity-7036002863554129920-_Ami?utm_source=share&utm_medium=member_desktop) es utilizado por los científicos de datos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de visualización de datos (ibm).
