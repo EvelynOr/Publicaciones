@@ -2,6 +2,13 @@
 
 ## Datasets
 
+https://paperswithcode.com/ 
+
+https://www.kaggle.com/ 
+
+Kaggle de principiante a Grandmaster [en español](https://www.kaggle.com/code/macespinoza/kaggle-de-principiante-a-grandmaster-en-espa-ol)
+
+
 ## EDA
 - Análisis exploratorio de datos [EDA](https://www.linkedin.com/posts/evelyn-ortiz_libros-cientaedficosdedatos-eda-activity-7036002863554129920-_Ami?utm_source=share&utm_medium=member_desktop) es utilizado por los científicos de datos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de visualización de datos (ibm).
 
