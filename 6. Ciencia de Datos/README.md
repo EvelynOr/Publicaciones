@@ -11,7 +11,17 @@
 - Ejemplo EDA con [Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb)
 
 
+# Graficas
 
+- Representación [gráfica básica](https://www.linkedin.com/posts/evelyn-ortiz_graerfica-spanish-cienciadedatos-activity-7024743772915662848-eel4?utm_source=share&utm_medium=member_desktop) que ha de manejar un científico de datos:
+
+variables cuantitativas: Histogramas - Gráficos de densidad - Boxplot
+
+variables cualitativas: Gráficas de tarta - Gráficos de barra
+
+visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
+
+[Repositorio](https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Graficas)
 
 
 ## 📚 Libros 
@@ -29,36 +39,19 @@
 - Ciencia de datos desde cero. Principios básicos con Python. Joel Grus. [O'REILLY](https://www.linkedin.com/posts/evelyn-ortiz_libros-bigdata-analytics-activity-7109573176556154881-YPDV?utm_source=share&utm_medium=member_desktop)   
 
 
-# Graficas
 
-- Representación [gráfica básica](https://www.linkedin.com/posts/evelyn-ortiz_graerfica-spanish-cienciadedatos-activity-7024743772915662848-eel4?utm_source=share&utm_medium=member_desktop) que ha de manejar un científico de datos:
+# Skills
 
-variables cuantitativas: Histogramas - Gráficos de densidad - Boxplot
+- Gain the skills you need to do independent data science [projects](https://www.kaggle.com/Learn)
 
-variables cualitativas: Gráficas de tarta - Gráficos de barra
+- Google Colab – [A Step-by-step Guide](https://algotrading101.com/learn/google-colab-guide/)
 
-visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
+- Buscar tema especificos [en colab](https://www.google.com/search?q=PyTorch+site%3Acolab.research.google.com , PyTorch site:colab.research.google.com)
 
-[Repositorio](https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Graficas)
-
-
-
-- Buscar tema especificos en colab 
-https://www.google.com/search?q=PyTorch+site%3Acolab.research.google.com , PyTorch site:colab.research.google.com
+- The best way to learn [math and computer science](https://brilliant.org/?utm_medium=sponsor&utm_source=linkedin&utm_campaign=giannis_240423) 
 
 
 
 
-- The best way to learn math and computer science
-
-https://brilliant.org/?utm_medium=sponsor&utm_source=linkedin&utm_campaign=giannis_240423 
 
 
-
-#### 8. Google Colab – A Step-by-step Guide
-https://algotrading101.com/learn/google-colab-guide/ 
-
-#### 9. Learn
-Gain the skills you need to do independent data science projects.
-
-https://www.kaggle.com/Learn
