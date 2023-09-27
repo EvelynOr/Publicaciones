@@ -62,7 +62,7 @@ informe: https://publications.iadb.org/publications/spanish/viewer/Como-apoyar-l
 
 ![image](https://user-images.githubusercontent.com/82233779/234062413-2abfcfb7-5c68-4990-8d8e-32c57ce88690.png)
 
-#### 6. El capitalismo [del bien común](https://www.linkedin.com/posts/evelyn-ortiz_el-capitalismo-del-bien-com%C3%BAn-activity-7107763144713723904-Fs-5?utm_source=share&utm_medium=member_desktop)
+6. El capitalismo [del bien común](https://www.linkedin.com/posts/evelyn-ortiz_el-capitalismo-del-bien-com%C3%BAn-activity-7107763144713723904-Fs-5?utm_source=share&utm_medium=member_desktop)
 
-- 7. ¿El sector privado al [rescate?]([https://www.linkedin.com/posts/evelyn-ortiz_economia-sector-analytics-activity-7112837603757838338-F_m0?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/evelyn-ortiz_el-sector-privado-al-rescate-activity-7112839766051577858-t8Be?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/evelyn-ortiz_el-sector-privado-al-rescate-activity-7112839766051577858-t8Be?utm_source=share&utm_medium=member_desktop) 
+7. ¿El sector privado al [rescate?]([https://www.linkedin.com/posts/evelyn-ortiz_economia-sector-analytics-activity-7112837603757838338-F_m0?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/evelyn-ortiz_el-sector-privado-al-rescate-activity-7112839766051577858-t8Be?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/evelyn-ortiz_el-sector-privado-al-rescate-activity-7112839766051577858-t8Be?utm_source=share&utm_medium=member_desktop) 
 
