@@ -3,16 +3,8 @@
 
 
 
+2. PREPARAR EL TERRENO MACROECONOMICO.Este informe explora los principales retos para la región en 2023 en los ámbitos #monetario, #fiscal , #laboral y #financiero e identifica políticas públicas que ayudarán a los responsables políticos a trazar un camino hacia [adelante.](https://www.linkedin.com/posts/evelyn-ortiz_libros-informes-social-activity-7046284826877812736-LFAS?utm_source=share&utm_medium=member_desktop)
 
-
-#### 2. 🌎 América Latina y el Caribe se enfrenta a un triple desafío #social, #fiscal y de #crecimiento que está limitando el desarrollo de la región y su población.
-
-Los niveles de pobreza y desigualdad empeoraron, las arcas públicas siguen lidiando con el impacto de la pandemia y el crecimiento continúa por debajo de su potencial.
-
-Este informe explora los principales retos para la región en 2023 en los ámbitos #monetario, #fiscal , #laboral y #financiero e identifica políticas públicas que ayudarán a los responsables políticos a trazar un camino hacia adelante.
-
-informe: https://policycommons.net/artifacts/3525758/preparar-el-terreno-macroeconomico-para-un-crecimiento-renovado/4326470/
-![image](https://user-images.githubusercontent.com/82233779/232587617-0508f1d5-2fe1-4a78-b75b-c19cd0c983d3.png)
 
 
 #### 3. El #capitalismo  entró triunfante en el si­glo XXI y su rival comunista quedó re­legado al pasado. Pero la gran recesión y el incremento de la desigualdad han socavado la fe en su estabilidad, reavi­vando los interrogantes sobre sus pers­pectivas a largo plazo.
