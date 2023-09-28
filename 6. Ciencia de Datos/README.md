@@ -47,7 +47,7 @@ visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 
 - Ciencia de datos desde cero. Principios básicos con Python. Joel Grus. [O'REILLY](https://www.linkedin.com/posts/evelyn-ortiz_libros-bigdata-analytics-activity-7109573176556154881-YPDV?utm_source=share&utm_medium=member_desktop)   
 
-
+- Telling Stories with Data, With Applications in [R} (https://tellingstorieswithdata.com/)
 
 # Skills
 
