@@ -49,6 +49,9 @@ visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 
 - Telling Stories with Data, With Applications in [R](https://tellingstorieswithdata.com/)
 
+- Ciencia de Datos del [MIT Press](https://www.linkedin.com/posts/evelyn-ortiz_libros-bigdata-analytics-activity-7114629054925783041-jvdH?utm_source=share&utm_medium=member_desktop)
+
+
 # Skills
 
 - Gain the skills you need to do independent data science [projects](https://www.kaggle.com/Learn)
