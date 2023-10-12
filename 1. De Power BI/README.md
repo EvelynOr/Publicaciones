@@ -14,9 +14,7 @@
 
 7. Algo de lo aprendido en las últimas semanas con la documentación de #microsoft. Análisis de [venta directa](https://learn.microsoft.com/es-es/power-bi/create-reports/sample-retail-analysis) y Retail Analysis Power [BI Dashboard](https://yodalearning.com/tutorials/retail-analysis-power-bi-dashboard/)  
 
-9. 10 prácticas recomendadas para diseñar dashboards eficaces. 
-
-Artículo: https://www.linkedin.com/pulse/10-pr%C3%A1cticas-recomendadas-para-dise%C3%B1ar-dashboards-eficaces-minolli/
+8. 10 prácticas recomendadas para diseñar [dashboards eficaces](https://www.linkedin.com/pulse/10-pr%C3%A1cticas-recomendadas-para-dise%C3%B1ar-dashboards-eficaces-minolli/.) 
 
 Documento base: https://media.licdn.com/dms/document/C561FAQHmCoJixNlr0A/feedshare-document-pdf-analyzed/0/1672835138414?e=1673481600&v=beta&t=kSios9a99BiDdG-QJS5K8911QHhw__nFV6Y7BF2Oosk
 
