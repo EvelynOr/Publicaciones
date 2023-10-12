@@ -6,14 +6,13 @@
 
 3. Rutas de aprendizaje para #powerbi, [siete módulos](https://learn.microsoft.com/es-es/training/)  
 
-5. Algunas ideas 👌 para dashboads de finanzas  https://www.tableau.com/es-es/learn/articles/sales-dashboards-examples-and-templates
+4. Algunas ideas para dashboads de [finanzas](https://www.tableau.com/es-es/learn/articles/sales-dashboards-examples-and-templates) 
 
-6. Ocho ejemplos guiados para iniciar en #powerbi 👌 https://learn.microsoft.com/es-es/power-bi/create-reports/sample-datasets#explore-excel-samples-in-excel 
+5. Ocho ejemplos guiados para iniciar en [powerbi](https://learn.microsoft.com/es-es/power-bi/create-reports/sample-datasets#explore-excel-samples-in-excel ) 
 
-7. QuickStart: Learn DAX (Data Analysis Expressions) Basics in 30 Minutes https://support.microsoft.com/en-us/office/quickstart-learn-dax-basics-in-30-minutes-51744643-c2a5-436a-bdf6-c895762bec1a?omkt=en-us&ui=en-us&rs=en-us&ad=us
+6. QuickStart: Learn DAX (Data Analysis Expressions) [Basics in 30 Minutes](https://support.microsoft.com/en-us/office/quickstart-learn-dax-basics-in-30-minutes-51744643-c2a5-436a-bdf6-c895762bec1a?omkt=en-us&ui=en-us&rs=en-us&ad=us) 
 
-8. Algo de lo aprendido en las últimas semanas con la documentación de #microsoft
-https://learn.microsoft.com/es-es/power-bi/create-reports/sample-retail-analysis, https://yodalearning.com/tutorials/retail-analysis-power-bi-dashboard/
+7. Algo de lo aprendido en las últimas semanas con la documentación de #microsoft. Análisis de [venta directa](https://learn.microsoft.com/es-es/power-bi/create-reports/sample-retail-analysis) y Retail Analysis Power [BI Dashboard](https://yodalearning.com/tutorials/retail-analysis-power-bi-dashboard/)  
 
 9. 10 prácticas recomendadas para diseñar dashboards eficaces. 
 
