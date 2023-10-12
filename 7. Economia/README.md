@@ -7,7 +7,7 @@
 
 
 
-3. Imaginando el final del [capitalismo](https://www.linkedin.com/posts/evelyn-ortiz_libros-capitalismo-occidentales-activity-7048824337193164800-s6tQ?utm_source=share&utm_medium=member_desktop.) 𝐄𝐥 𝐚𝐮𝐭𝐨𝐫 Francesco Boldizzoni es profesor de Ciencias Políticas en la Norwegian University of Science and Technology, a la que se incorporó en 2019 procedente de la Universidad de Helsinki. Es miembro vitalicio de Clare Hall, Cambridge, desde 2007. Su campo de trabajo son los orígenes políticos y económicos de nuestro tiempo, y en particular por los problemas del capitalismo.
+3. Imaginando el final del [capitalismo.](https://www.linkedin.com/posts/evelyn-ortiz_libros-capitalismo-occidentales-activity-7048824337193164800-s6tQ?utm_source=share&utm_medium=member_desktop.) 𝐄𝐥 𝐚𝐮𝐭𝐨𝐫 Francesco Boldizzoni es profesor de Ciencias Políticas en la Norwegian University of Science and Technology, a la que se incorporó en 2019 procedente de la Universidad de Helsinki. Es miembro vitalicio de Clare Hall, Cambridge, desde 2007. Su campo de trabajo son los orígenes políticos y económicos de nuestro tiempo, y en particular por los problemas del capitalismo.
 
 
 4. ¿Cómo apoyar la internacionalización productiva en América Latina? Análisis de políticas, requerimientos de capacidades [estatales y riesgos](https://www.linkedin.com/posts/evelyn-ortiz_libros-informes-datos-activity-7053746958443667456-2S7B?utm_source=share&utm_medium=member_desktop.)
