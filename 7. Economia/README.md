@@ -7,30 +7,13 @@
 
 
 
-3. Imaginando el final del [capitalismo](https://www.linkedin.com/posts/evelyn-ortiz_libros-capitalismo-occidentales-activity-7048824337193164800-s6tQ?utm_source=share&utm_medium=member_desktop) 𝐄𝐥 𝐚𝐮𝐭𝐨𝐫 Francesco Boldizzoni es profesor de Ciencias Políticas en la Norwegian University of Science and Technology, a la que se incorporó en 2019 procedente de la Universidad de Helsinki. Es miembro vitalicio de Clare Hall, Cambridge, desde 2007. Su campo de trabajo son los orígenes políticos y económicos de nuestro tiempo, y en particular por los problemas del capitalismo.
-
-https://www.viruseditorial.net/es/libreria/fondo/9948/imaginando-el-final-del-capitalismo?fbclid=IwAR1KLvrR3M4akc95i5zX9CB50yDz_Wpqwt9mIUNqHOeDO0ZztFd41u2IPm8
-
-![image](https://user-images.githubusercontent.com/82233779/232587886-e0a6fb47-6bfa-4b71-981b-229926cc0321.png)
+3. Imaginando el final del [capitalismo](https://www.linkedin.com/posts/evelyn-ortiz_libros-capitalismo-occidentales-activity-7048824337193164800-s6tQ?utm_source=share&utm_medium=member_desktop.) 𝐄𝐥 𝐚𝐮𝐭𝐨𝐫 Francesco Boldizzoni es profesor de Ciencias Políticas en la Norwegian University of Science and Technology, a la que se incorporó en 2019 procedente de la Universidad de Helsinki. Es miembro vitalicio de Clare Hall, Cambridge, desde 2007. Su campo de trabajo son los orígenes políticos y económicos de nuestro tiempo, y en particular por los problemas del capitalismo.
 
 
-#### 4. El análisis se hace con base a:
-a) las capacidades de tipo técnico , organizacional y político 
-b) el ciclo de vida de las políticas de adopción , operación y evaluación
+4. ¿Cómo apoyar la internacionalización productiva en América Latina? Análisis de políticas, requerimientos de capacidades [estatales y riesgos](https://www.linkedin.com/posts/evelyn-ortiz_libros-informes-datos-activity-7053746958443667456-2S7B?utm_source=share&utm_medium=member_desktop.)
+    
 
-Temas desarrollados:
-- regímenes de incentivos fiscales y financieros 
-- programas de apoyo a la internacionalización productiva (resolver fallas de mercado que obstaculizan al sector exportador, entre otros)
-- políticas de infraestructura operativa, legal y física  
-- situación de los países de América Latina
-- diferentes capacidad y riesgos asociados a las distintas políticas examinadas
-- resumen de los objetivos y características de cada grupo de políticas y los requerimientos de capacidades
-
-informe: https://publications.iadb.org/publications/spanish/viewer/Como-apoyar-la-internacionalizacion-productiva-en-America-Latina-analisis-de-politicas-requerimientos-de-capacidades-estatales-y-riesgos.pdf 
-
-![image](https://user-images.githubusercontent.com/82233779/232588166-77d74e39-9eb0-45cb-88b1-b21c7493eb6c.png)
-
-#### 5. La evolución de la economía mundial ofrece dos oportunidades: la tendencia hacia el nearshoring —mover la producción más cerca de los mercados de EE. UU. y Europa—✈️ y el imperativo de luchar contra el cambio climático, que le brinda a la región una nueva ventaja comparativa en capital solar, eólico, hidroeléctrico y natural🍂. Aprovechar esta situación demandará una mayor integración en la economía mundial. No obstante, y paradójicamente, de cara a estas oportunidades, ALC está reduciendo su nivel de integración. La intensidad del comercio en general se estancó, mientras que la inversión extranjera directa (IED) disminuyó en la mayoría de los países.
+5. La evolución de la economía mundial ofrece dos oportunidades: la tendencia hacia el nearshoring —mover la producción más cerca de los mercados de EE. UU. y Europa—✈️ y el imperativo de luchar contra el cambio climático, que le brinda a la región una nueva ventaja comparativa en capital solar, eólico, hidroeléctrico y natural🍂. Aprovechar esta situación demandará una mayor integración en la economía mundial. No obstante, y paradójicamente, de cara a estas oportunidades, ALC está reduciendo su nivel de integración. La intensidad del comercio en general se estancó, mientras que la inversión extranjera directa (IED) disminuyó en la mayoría de los países.
 
 #spanish: https://openknowledge.worldbank.org/server/api/core/bitstreams/8d6c50b4-bbfa-4c5a-ad41-2b6534cdf076/content
 
