@@ -18,43 +18,7 @@
 
 9. Si en la elaboración de dashboards e informes, vuestra dificultad es el diseño, os comparo estos videos que te enseñan, en dos horas, los [principios generales](https://www.linkedin.com/posts/evelyn-ortiz_diseaeho-activity-7055345877455884288-EgBt?utm_source=share&utm_medium=member_desktop) en: a) 𝐂𝐨𝐥𝐨𝐫, 𝐭𝐢𝐩𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 𝐞 𝐢𝐜𝐨𝐧𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 y b) 𝐉𝐞𝐫𝐚𝐫𝐪𝐮𝐢𝐳𝐚𝐜𝐢𝐨́𝐧 𝐝𝐞 𝐥𝐨𝐬 𝐞𝐥𝐞𝐦𝐞𝐧𝐭𝐨𝐬 𝐲 𝐩𝐫𝐨𝐜𝐞𝐬𝐨 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐨 
 
-𝐒𝐞𝐬𝐢𝐨́𝐧 𝟏: 𝐂𝐨𝐥𝐨𝐫, 𝐭𝐢𝐩𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 𝐞 𝐢𝐜𝐨𝐧𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 👌
--El color
-Usos y utilidades de los colores
-Aplicación de los colores en un dashboard (hasta hace muy poco mi mayor problema 🤭)
-Cómo identificar y combinar colores con herramientas
--Qué es la tipografía
-Tipos de familias de fuentes y consejos de utilización
-Cómo combinar diferentes fuentes con herramientas
--La iconografía
-Cuándo usar imágenes
-Cuándo usar ilustraciones
-Herramientas para encontrar imágenes, ilustraciones, pictogramas, etcétera
-Cómo colocar imágenes y adaptarlas
-Cómo optimizar el color de las imágenes
-Cuándo utilizar pictogramas y herramientas donde conseguirlos
-🔗 https://www.youtube.com/watch?v=kRY9tY89HRA 
-
-𝐒𝐞𝐬𝐢𝐨́𝐧 𝟐: 𝐉𝐞𝐫𝐚𝐫𝐪𝐮𝐢𝐳𝐚𝐜𝐢𝐨́𝐧 𝐝𝐞 𝐥𝐨𝐬 𝐞𝐥𝐞𝐦𝐞𝐧𝐭𝐨𝐬 𝐲 𝐩𝐫𝐨𝐜𝐞𝐬𝐨 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐨 👌
--Cómo reunir y priorizar los elementos
-La dirección de lectura
-El sistema de cuadrículas para organizar el espacio de trabajo
-La regla de los tercios
-El espacio blanco en el diseño
-La jerarquía de los elementos
-La alineación de los elementos (cómo unirlos o diferenciarlos)
--Procesos creativos y tendencias visuales
-Etapas del proceso creativo
-Recursos para inspiración creativa
-Últimas tendencias en el diseño de informes y dashboards
-🔗https://www.youtube.com/watch?v=nrJOoU-N_Yk&t=2s
-
-Source: https://www.linkedin.com/company/le-sphinx-iberoamerica/ 
-Eventos: https://www.lesphinx.es/eventos
-
-![image](https://user-images.githubusercontent.com/82233779/234268144-f889787c-10ef-4ce1-9697-5771646244d3.png)
-
-### 10. Copilot in Power BI Demo
+10. Copilot in Power BI Demo
 https://www.youtube.com/watch?v=wr__6tM5U6I 
 
 ### 11. Para principiantes en el análisis de datos, para iniciar o mejorar su portafolio
