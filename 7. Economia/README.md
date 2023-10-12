@@ -7,12 +7,7 @@
 
 
 
-#### 3. El #capitalismo  entró triunfante en el si­glo XXI y su rival comunista quedó re­legado al pasado. Pero la gran recesión y el incremento de la desigualdad han socavado la fe en su estabilidad, reavi­vando los interrogantes sobre sus pers­pectivas a largo plazo.
-⚰️ ¿Está el capita­lismo en vías de desaparición?
-🛌 Si es así, ¿Qué podría sustituirlo?
-📜 Y si perdura, ¿Cómo afrontará las futuras crisis so­ciales y medioambientales y los inevi­tables costes de la destrucción creati­va?
-El capita­lismo ha sobrevivido a las predicciones de su desaparición no, como muchos piensan, por su eficiencia económica o por las virtudes intrínsecas de los mer­cados, sino porque está arraigado en la estructura jerárquica e individualista de las sociedades #occidentales modernas.
-𝐄𝐥 𝐚𝐮𝐭𝐨𝐫 Francesco Boldizzoni es profesor de Ciencias Políticas en la Norwegian University of Science and Technology, a la que se incorporó en 2019 procedente de la Universidad de Helsinki. Es miembro vitalicio de Clare Hall, #Cambridge, desde 2007. Su campo de trabajo son los orígenes políticos y económicos de nuestro tiempo, y en particular por los problemas del capitalismo.
+3. Imaginando el final del [capitalismo](https://www.linkedin.com/posts/evelyn-ortiz_libros-capitalismo-occidentales-activity-7048824337193164800-s6tQ?utm_source=share&utm_medium=member_desktop) 𝐄𝐥 𝐚𝐮𝐭𝐨𝐫 Francesco Boldizzoni es profesor de Ciencias Políticas en la Norwegian University of Science and Technology, a la que se incorporó en 2019 procedente de la Universidad de Helsinki. Es miembro vitalicio de Clare Hall, Cambridge, desde 2007. Su campo de trabajo son los orígenes políticos y económicos de nuestro tiempo, y en particular por los problemas del capitalismo.
 
 https://www.viruseditorial.net/es/libreria/fondo/9948/imaginando-el-final-del-capitalismo?fbclid=IwAR1KLvrR3M4akc95i5zX9CB50yDz_Wpqwt9mIUNqHOeDO0ZztFd41u2IPm8
 
