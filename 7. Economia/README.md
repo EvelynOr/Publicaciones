@@ -46,3 +46,5 @@ informe: https://publications.iadb.org/publications/spanish/viewer/Como-apoyar-l
 6. El capitalismo [del bien común](https://www.linkedin.com/posts/evelyn-ortiz_el-capitalismo-del-bien-com%C3%BAn-activity-7107763144713723904-Fs-5?utm_source=share&utm_medium=member_desktop)
 
 7. ¿El sector privado al [rescate?](https://www.linkedin.com/posts/evelyn-ortiz_el-sector-privado-al-rescate-activity-7112839766051577858-t8Be?utm_source=share&utm_medium=member_desktop)
+   
+8. Estudio Económico de América Latina y el Caribe 2023. El financiamiento de una transición sostenible: inversión para crecer y [enfrentar el cambio climático](https://www.linkedin.com/posts/evelyn-ortiz_economia-analytics-books-activity-7118049469962600448-Qdt-?utm_source=share&utm_medium=member_desktop)
