@@ -16,7 +16,7 @@
 
 8. 10 prácticas recomendadas para diseñar [dashboards eficaces](https://www.linkedin.com/pulse/10-pr%C3%A1cticas-recomendadas-para-dise%C3%B1ar-dashboards-eficaces-minolli/) y documento [base]() https://media.licdn.com/dms/document/C561FAQHmCoJixNlr0A/feedshare-document-pdf-analyzed/0/1672835138414?e=1673481600&v=beta&t=kSios9a99BiDdG-QJS5K8911QHhw__nFV6Y7BF2Oosk
 
-9. Si en la elaboración de dashboards  e informes, vuestra dificultad es el #diseño, os comparo estos videos que te enseñan, en dos horas, los principios generales en:
+9. Si en la elaboración de dashboards e informes, vuestra dificultad es el diseño, os comparo estos videos que te enseñan, en dos horas, los [principios generales](https://www.linkedin.com/posts/evelyn-ortiz_diseaeho-activity-7055345877455884288-EgBt?utm_source=share&utm_medium=member_desktop) en: a) 𝐂𝐨𝐥𝐨𝐫, 𝐭𝐢𝐩𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 𝐞 𝐢𝐜𝐨𝐧𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 y b) 𝐉𝐞𝐫𝐚𝐫𝐪𝐮𝐢𝐳𝐚𝐜𝐢𝐨́𝐧 𝐝𝐞 𝐥𝐨𝐬 𝐞𝐥𝐞𝐦𝐞𝐧𝐭𝐨𝐬 𝐲 𝐩𝐫𝐨𝐜𝐞𝐬𝐨 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐨 
 
 𝐒𝐞𝐬𝐢𝐨́𝐧 𝟏: 𝐂𝐨𝐥𝐨𝐫, 𝐭𝐢𝐩𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 𝐞 𝐢𝐜𝐨𝐧𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 👌
 -El color
