@@ -14,11 +14,11 @@
 
 7. Algo de lo aprendido en las últimas semanas con la documentación de #microsoft. Análisis de [venta directa](https://learn.microsoft.com/es-es/power-bi/create-reports/sample-retail-analysis) y Retail Analysis Power [BI Dashboard](https://yodalearning.com/tutorials/retail-analysis-power-bi-dashboard/)  
 
-8. 10 prácticas recomendadas para diseñar [dashboards eficaces](https://www.linkedin.com/pulse/10-pr%C3%A1cticas-recomendadas-para-dise%C3%B1ar-dashboards-eficaces-minolli/) y documento [base]() https://media.licdn.com/dms/document/C561FAQHmCoJixNlr0A/feedshare-document-pdf-analyzed/0/1672835138414?e=1673481600&v=beta&t=kSios9a99BiDdG-QJS5K8911QHhw__nFV6Y7BF2Oosk
+8. 10 prácticas recomendadas para diseñar [dashboards eficaces](https://www.studocu.com/cl/document/universidad-tecnologica-metropolitana/mecanica-de-fluidos/10-practicas-recomendadas-para-crear-dashboards-eficaces/63650342)
 
 9. Si en la elaboración de dashboards e informes, vuestra dificultad es el diseño, os comparo estos videos que te enseñan, en dos horas, los [principios generales](https://www.linkedin.com/posts/evelyn-ortiz_diseaeho-activity-7055345877455884288-EgBt?utm_source=share&utm_medium=member_desktop) en: a) 𝐂𝐨𝐥𝐨𝐫, 𝐭𝐢𝐩𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 𝐞 𝐢𝐜𝐨𝐧𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 y b) 𝐉𝐞𝐫𝐚𝐫𝐪𝐮𝐢𝐳𝐚𝐜𝐢𝐨́𝐧 𝐝𝐞 𝐥𝐨𝐬 𝐞𝐥𝐞𝐦𝐞𝐧𝐭𝐨𝐬 𝐲 𝐩𝐫𝐨𝐜𝐞𝐬𝐨 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐨 
 
-10. Copilot in Power BI Demo
+11. Copilot in Power BI Demo
 https://www.youtube.com/watch?v=wr__6tM5U6I 
 
 ### 11. Para principiantes en el análisis de datos, para iniciar o mejorar su portafolio
