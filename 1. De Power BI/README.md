@@ -18,24 +18,9 @@
 
 9. Si en la elaboración de dashboards e informes, vuestra dificultad es el diseño, os comparo estos videos que te enseñan, en dos horas, los [principios generales](https://www.linkedin.com/posts/evelyn-ortiz_diseaeho-activity-7055345877455884288-EgBt?utm_source=share&utm_medium=member_desktop) en: a) 𝐂𝐨𝐥𝐨𝐫, 𝐭𝐢𝐩𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 𝐞 𝐢𝐜𝐨𝐧𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 y b) 𝐉𝐞𝐫𝐚𝐫𝐪𝐮𝐢𝐳𝐚𝐜𝐢𝐨́𝐧 𝐝𝐞 𝐥𝐨𝐬 𝐞𝐥𝐞𝐦𝐞𝐧𝐭𝐨𝐬 𝐲 𝐩𝐫𝐨𝐜𝐞𝐬𝐨 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐨 
 
-11. Copilot in Power BI Demo
-https://www.youtube.com/watch?v=wr__6tM5U6I 
+10. Copilot in [Power BI Demo](https://www.youtube.com/watch?v=wr__6tM5U6I) 
 
-### 11. Para principiantes en el análisis de datos, para iniciar o mejorar su portafolio
-
-🍁 𝟳 W𝗮𝘆𝘀 𝘁𝗼 𝗦𝘂𝗽𝗲𝗿𝗰𝗵𝗮𝗿𝗴𝗲 𝗬𝗼𝘂𝗿 𝗗𝗮𝘁𝗮 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼  👌
-https://media.licdn.com/dms/document/media/D561FAQH7PI2GnpjoxA/feedshare-document-pdf-analyzed/0/1684415570412?e=1685577600&v=beta&t=nXi-th6t0CmugT5jCGphYCtEonsVC0IOUdeo8WvMpA4
-
-ejemplo: https://mattmike.carrd.co/  
-
-
-🍂 𝟵 𝗼𝗳 𝘁𝗵𝗲 𝗕𝗲𝘀𝘁 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼𝘀 𝗼𝗻 𝘁𝗵𝗲 W𝗲𝗯
-(actualizado al 9 de mayo 2023)
-https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-examples/
-
-
-How to Build a Data Analyst Portfolio That Will Get You Hired?
-https://www.projectpro.io/article/how-to-build-a-data-analyst-portfolio/529
+11. Para principiantes en el análisis de datos, para [iniciar o mejorar el portafolio](https://www.linkedin.com/posts/evelyn-ortiz_principiantes-portafolio-powerbi-activity-7067686923594526720-Z-x1?utm_source=share&utm_medium=member_desktop) y How to Build a Data Analyst Portfolio [That Will Get You Hired?](https://www.projectpro.io/article/how-to-build-a-data-analyst-portfolio/529)
 
 
 🍹 Interfaz similar a Tableau, lo que le permite analizar datos más rápido y sin código, 𝐏𝐲𝐆𝐖𝐚𝐥𝐤𝐞𝐫 𝐞𝐬 𝐞𝐥 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 𝐩𝐚𝐫𝐚 𝐉𝐮𝐩𝐲𝐭𝐞𝐫 𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤 https://www.linkedin.com/posts/pfzambra_%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F-%3F%3F-%3F%3F%3F%3F%3F%3F-activity-7103402838793277442-LHOt?utm_source=share&utm_medium=member_desktop , https://github.com/Kanaries/pygwalker?q=2 
