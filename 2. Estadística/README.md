@@ -14,12 +14,8 @@
 - Para hacer un repaso rápido y sencillo de conceptos básicos de estadistica en el [contexto de cienciadedatos](https://www.linkedin.com/posts/evelyn-ortiz_libros-estadistica-cienciadedatos-activity-7028526419882176512-tq5S?utm_source=share&utm_medium=member_desktop).
 
 
-5. Para hacer una lectura amena de temas de #probabilidad y #estadística, en contextos reales y explicado de forma sencilla.
+- Lectura amena de temas de probabilidad y estadística, en contextos reales y explicado de forma sencilla. [¿Cómo sobrevivir a la incertidumbre?](https://www.linkedin.com/feed/update/urn:li:activity:7030903235808763904?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7030903235808763904%29)
 
-La primera edición corresponde a septiembre 2022. La autora es licenciada en Matemáticas y en Ciencias y Técnicas Estadísticas 🔗 https://anabelforte.com/
-
-
-![EstadisticaA](https://user-images.githubusercontent.com/82233779/218484547-a048ea9b-5d5e-4e99-9e56-ea5a554f74c7.JPG)
 
 ### 6. LibreTexts, generación de textos de acceso abierto para mejorar la educación en todos los niveles de educación superior. Tiene temas de biología, #negocios, física, #matemáticas y #estadistica, entre otros https://espanol.libretexts.org/.
 Estadistica https://espanol.libretexts.org/Estadisticas 
