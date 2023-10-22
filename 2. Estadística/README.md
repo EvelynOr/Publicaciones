@@ -17,12 +17,9 @@
 - Lectura amena de temas de probabilidad y estadística, en contextos reales y explicado de forma sencilla. [¿Cómo sobrevivir a la incertidumbre?](https://www.linkedin.com/feed/update/urn:li:activity:7030903235808763904?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7030903235808763904%29)
 
 
-### 6. LibreTexts, generación de textos de acceso abierto para mejorar la educación en todos los niveles de educación superior. Tiene temas de biología, #negocios, física, #matemáticas y #estadistica, entre otros https://espanol.libretexts.org/.
-Estadistica https://espanol.libretexts.org/Estadisticas 
+- LibreTexts, generación de textos de acceso abierto para mejorar la educación en todos los niveles de educación superior. [Tiene temas de biología, #negocios, física, #matemáticas y #estadistica, entre otros](https://www.linkedin.com/posts/evelyn-ortiz_libros-negocios-matemaerticas-activity-7038558865096900608-wBzH?utm_source=share&utm_medium=member_desktop)
 
-![Estadistica](https://user-images.githubusercontent.com/82233779/223190248-0f074d6f-3f6d-4c75-ba7c-4462358e947e.JPG)
-
-### 7. Introducción a la estadística 
+- Introducción a la estadística 
 ![image](https://github.com/EvelynOr/Publicaciones/assets/82233779/28e799c2-214d-4031-9bf5-6591c2c7a056)
 
 https://openstax.org/subjects/matematicas
