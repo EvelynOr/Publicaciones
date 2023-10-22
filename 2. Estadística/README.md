@@ -18,14 +18,6 @@
 
 - Para hacer un repaso rápido y sencillo de conceptos básicos de estadistica en el [contexto de cienciadedatos](https://www.linkedin.com/posts/evelyn-ortiz_libros-estadistica-cienciadedatos-activity-7028526419882176512-tq5S?utm_source=share&utm_medium=member_desktop).
 
-texto: https://lnkd.in/evcPDhTe
-
-github: https://lnkd.in/exqERUdZ
-
-autor: https://lnkd.in/eYQwdTWZ
-
-picture: phgtree 
-![estaditica](https://user-images.githubusercontent.com/82233779/217120726-c70cd988-1983-4667-89f0-f03cf5b63900.jpg)
 
 5. Para hacer una lectura amena de temas de #probabilidad y #estadística, en contextos reales y explicado de forma sencilla.
 
