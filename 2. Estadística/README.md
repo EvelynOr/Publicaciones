@@ -9,11 +9,6 @@
 
 - Libros de estadistica para [cienciadedatos](https://www.linkedin.com/posts/evelyn-ortiz_mi-top-libros-de-estad%C3%ADstica-para-data-activity-7023293762931949568-k7DE?utm_source=share&utm_medium=member_desktop)  
 
-📘 Naked Statistics
-📗 Cuadernos de estadística
-📙 Elements of Statistical Learning
-📒 Introduction to Statistical Learning, sitio oficial https://lnkd.in/eujXgaHk 
-
 
 
 - Para hacer un repaso rápido y sencillo de conceptos básicos de estadistica en el [contexto de cienciadedatos](https://www.linkedin.com/posts/evelyn-ortiz_libros-estadistica-cienciadedatos-activity-7028526419882176512-tq5S?utm_source=share&utm_medium=member_desktop).
