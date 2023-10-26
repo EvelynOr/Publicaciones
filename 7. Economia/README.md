@@ -13,12 +13,10 @@
 4. ¿Cómo apoyar la internacionalización productiva en América Latina? Análisis de políticas, requerimientos de capacidades [estatales y riesgos](https://www.linkedin.com/posts/evelyn-ortiz_libros-informes-datos-activity-7053746958443667456-2S7B?utm_source=share&utm_medium=member_desktop.)
     
 
-5. La evolución de la economía mundial ofrece dos oportunidades: la tendencia hacia el nearshoring —mover la producción más cerca de los mercados de EE. UU. y Europa—✈️ y el imperativo de luchar contra el cambio climático, que le brinda a la región una nueva ventaja comparativa en capital solar, eólico, hidroeléctrico y natural🍂. Aprovechar esta situación demandará una mayor integración en la economía mundial. No obstante, y paradójicamente, de cara a estas oportunidades, ALC está reduciendo su nivel de integración. La intensidad del comercio en general se estancó, mientras que la inversión extranjera directa (IED) disminuyó en la mayoría de los países.
-[spanish:](https://openknowledge.worldbank.org/server/api/core/bitstreams/8d6c50b4-bbfa-4c5a-ad41-2b6534cdf076/content)
+5. EL POTENCIAL DE LA INTEGRACIÓN. OPORTUNIDADES EN UNA ECONOMÍA GLOBAL CAMBIANTE
+   La evolución de la economía mundial ofrece dos oportunidades: la tendencia hacia el nearshoring —mover la producción más cerca de los mercados de EE. UU. y Europa—✈️ y el imperativo de luchar contra el cambio climático, que le brinda a la región una nueva ventaja comparativa en capital solar, eólico, hidroeléctrico y natural🍂. Aprovechar esta situación demandará una mayor integración en la economía mundial. No obstante, y paradójicamente, de cara a estas oportunidades, ALC está reduciendo su nivel de integración. La intensidad del comercio en general se estancó, mientras que la inversión extranjera directa (IED) disminuyó en la mayoría de los países.
+[spanish:](https://openknowledge.worldbank.org/server/api/core/bitstreams/8d6c50b4-bbfa-4c5a-ad41-2b6534cdf076/content) & [english](https://openknowledge.worldbank.org/server/api/core/bitstreams/93458243-ca0a-4e48-b16c-8be2ea53e4c4/content) 
 
-[english:](https://openknowledge.worldbank.org/server/api/core/bitstreams/93458243-ca0a-4e48-b16c-8be2ea53e4c4/content) 
-
-![image](https://user-images.githubusercontent.com/82233779/234062413-2abfcfb7-5c68-4990-8d8e-32c57ce88690.png)
 
 6. El capitalismo [del bien común](https://www.linkedin.com/posts/evelyn-ortiz_el-capitalismo-del-bien-com%C3%BAn-activity-7107763144713723904-Fs-5?utm_source=share&utm_medium=member_desktop)
 
