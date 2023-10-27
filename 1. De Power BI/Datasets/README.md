@@ -1,4 +1,6 @@
-# PARA POWER BI 
+# POWER BI 
+
+#### The Top Dataset Resources to Practise Power BI[^1]
 1. Maven Analytics - https://www.mavenanalytics.io/data-playground
 2. Pomerol Partners - https://pomerolpartners.com/data-dna-dataset-challenge/
 3. Enterprise DNA - https://info.enterprisedna.co/power-bi-challenges/
@@ -22,6 +24,9 @@
 21. Microsoft Financial sample - https://docs.microsoft.com/en-us/power-bi/create-reports/sample-financial-download
 22. Microsoft Customer Profitability sample - https://docs.microsoft.com/en-us/power-bi/create-reports/sample-customer-profitability
 23. Power BI Dataset examples Github - https://github.com/microsoft/powerbi-desktop-samples/tree/main/powerbi-service-samples
-[Source](https://www.linkedin.com/pulse/top-dataset-resources-practise-power-bi-arno-wakfer/?trackingId=g%2FCtmwFiTPaoXMwYnF8Ckg%3D%3D)
+
+
+    
+[^1]:[Source](https://www.linkedin.com/pulse/top-dataset-resources-practise-power-bi-arno-wakfer/?trackingId=g%2FCtmwFiTPaoXMwYnF8Ckg%3D%3D)
 
 
