@@ -2,6 +2,7 @@
 
 ## CIENCIA DE DATOS 
 1. https://www.kaggle.com/
+2. 43 Free Datasets for Building an Irresistible [Portfolio (2023)](https://www.dataquest.io/blog/free-datasets-for-projects/)
    
 ## POWER BI 
 
