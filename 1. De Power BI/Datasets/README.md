@@ -3,6 +3,13 @@
 ## CIENCIA DE DATOS 
 1. https://www.kaggle.com/
 2. 43 Free Datasets for Building an Irresistible [Portfolio (2023)](https://www.dataquest.io/blog/free-datasets-for-projects/)
+3. Where to Find Free Datasets & How to Know if [They're Good Quality](https://chartio.com/learn/data-analytics/where-to-find-free-datasets/)
+4. 32 datasets to uplift your [skills in data science](https://datasciencedojo.com/blog/datasets-data-science-skills/)
+5. 15 Machine Learning Regression Projects [Ideas for Beginners](https://www.projectpro.io/article/machine-learning-regression-projects-ideas/501)
+
+
+
+
    
 ## POWER BI 
 
