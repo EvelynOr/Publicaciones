@@ -23,7 +23,10 @@
 11. Para principiantes en el análisis de datos, para [iniciar o mejorar el portafolio](https://www.linkedin.com/posts/evelyn-ortiz_principiantes-portafolio-powerbi-activity-7067686923594526720-Z-x1?utm_source=share&utm_medium=member_desktop) y How to Build a Data Analyst Portfolio [That Will Get You Hired?](https://www.projectpro.io/article/how-to-build-a-data-analyst-portfolio/529)
 
 
-🍹 Interfaz similar a Tableau, lo que le permite analizar datos más rápido y sin código, 𝐏𝐲𝐆𝐖𝐚𝐥𝐤𝐞𝐫 𝐞𝐬 𝐞𝐥 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 [𝐩𝐚𝐫𝐚 𝐉𝐮𝐩𝐲𝐭𝐞𝐫 𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤](https://www.linkedin.com/posts/pfzambra_%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F-%3F%3F-%3F%3F%3F%3F%3F%3F-activity-7103402838793277442-LHOt?utm_source=share&utm_medium=member_desktop)
+12. Interfaz similar a Tableau, lo que le permite analizar datos más rápido y sin código, 𝐏𝐲𝐆𝐖𝐚𝐥𝐤𝐞𝐫 𝐞𝐬 𝐞𝐥 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 [𝐩𝐚𝐫𝐚 𝐉𝐮𝐩𝐲𝐭𝐞𝐫 𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤](https://www.linkedin.com/posts/pfzambra_%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F-%3F%3F-%3F%3F%3F%3F%3F%3F-activity-7103402838793277442-LHOt?utm_source=share&utm_medium=member_desktop)
 
-🍄 10 great data visualizations [books](https://www.linkedin.com/feed/update/urn:li:activity:7106622343518511104/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7106622343518511104%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)  
+13. 10 great data visualizations [books](https://www.linkedin.com/feed/update/urn:li:activity:7106622343518511104/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7106622343518511104%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+14. 9 of the Best Data Analytics [Portfolios on the Web](https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-examples/)
+
+
 
