@@ -1,4 +1,9 @@
-# POWER BI 
+# DATASETS
+
+## CIENCIA DE DATOS 
+1. https://www.kaggle.com/
+   
+## POWER BI 
 
 #### The Top Dataset Resources to Practise Power BI[^1]
 1. Maven Analytics - https://www.mavenanalytics.io/data-playground
@@ -25,7 +30,18 @@
 22. Microsoft Customer Profitability sample - https://docs.microsoft.com/en-us/power-bi/create-reports/sample-customer-profitability
 23. Power BI Dataset examples Github - https://github.com/microsoft/powerbi-desktop-samples/tree/main/powerbi-service-samples
 
+#### Grow Up
+1. https://dataverse.harvard.edu/
+2. https://data.world/datasets/open-data
+3. https://datos.gob.es/es
 
+# Para Economistas
+1. INEGI: https://www.inegi.org.mx/
+2. KAGGLE: https://www.kaggle.com/
+3. OUR WORLD IN DATA: https://ourworldindata.org/
+4. OCDE: https://data.oecd.org/
+5. DATOS DE COMERCIO: https://oec.world/es/
+6. STATISTA (con restricciones): https://es.statista.com/
     
 [^1]:[Source](https://www.linkedin.com/pulse/top-dataset-resources-practise-power-bi-arno-wakfer/?trackingId=g%2FCtmwFiTPaoXMwYnF8Ckg%3D%3D)
 
