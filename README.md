@@ -20,7 +20,7 @@ Recursos para investigadores
 
 #### 5. Recursos para portafolio o practicar SQLServer 
 
-#### 6. Ciencia de Datos
+#### 6. [Ciencia de Datos](https://github.com/EvelynOr/Publicaciones/tree/main/6.%20Ciencia%20de%20Datos)
 
 #### 7. Economia: libros, informes económicos de diversas entidades internacionales   
 
