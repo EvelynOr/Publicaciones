@@ -22,7 +22,7 @@ Recursos para investigadores
 
 #### 6. [Ciencia de Datos](https://github.com/EvelynOr/Publicaciones/tree/main/6.%20Ciencia%20de%20Datos)
 
-#### 7. Economia: libros, informes económicos de diversas entidades internacionales   
+#### 7. [Economia:](https://github.com/EvelynOr/Publicaciones/tree/main/7.%20Economia) libros, informes económicos de diversas entidades internacionales   
 
 #### 8. Desarrollo Personal / Profesional
 
