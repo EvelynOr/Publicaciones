@@ -24,7 +24,7 @@ Recursos para investigadores
 
 #### 7. [Economia:](https://github.com/EvelynOr/Publicaciones/tree/main/7.%20Economia) libros, informes económicos de diversas entidades internacionales   
 
-#### 8. Desarrollo Personal / Profesional
+#### 8. Desarrollo Personal / [Profesional](https://github.com/EvelynOr/Publicaciones/tree/main/8.%20Desarrollo%20Personal)
 
 
 # Bajar libros
