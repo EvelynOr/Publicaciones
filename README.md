@@ -14,7 +14,7 @@
 #### 3. Series de Tiempo y [Pronósticos](https://github.com/EvelynOr/Publicaciones/tree/main/3.%20Series%20de%20Tiempo%20-%20Pron%C3%B3sticos)
 
 
-#### 4. Investigación
+#### 4. [Investigación](https://github.com/EvelynOr/Publicaciones/tree/main/4.%20Investigaci%C3%B3n)
 
 Recursos para investigadores 
 
