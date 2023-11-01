@@ -1,6 +1,6 @@
 # 👩‍💻 Publicaciones
 
-#### 1. Power BI: 
+#### 1. [Power BI:](https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI) 
 
 + Material utilizado de referencia o en el proceso de aprendizaje 
 
