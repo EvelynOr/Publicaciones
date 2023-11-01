@@ -16,7 +16,7 @@
 
 #### 4. [Investigación](https://github.com/EvelynOr/Publicaciones/tree/main/4.%20Investigaci%C3%B3n) Recursos para investigadores 
 
-#### 5. Recursos para portafolio o practicar SQLServer 
+#### 5. Recursos para portafolio o practicar [SQLServer](https://github.com/EvelynOr/Publicaciones/tree/main/5.%20SQLServer) 
 
 #### 6. [Ciencia de Datos](https://github.com/EvelynOr/Publicaciones/tree/main/6.%20Ciencia%20de%20Datos)
 
