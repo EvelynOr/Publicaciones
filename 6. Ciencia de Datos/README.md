@@ -52,7 +52,9 @@ visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 
 - Ciencia de Datos del [MIT Press](https://www.linkedin.com/posts/evelyn-ortiz_libros-bigdata-analytics-activity-7114629054925783041-jvdH?utm_source=share&utm_medium=member_desktop)
 
+- Ciencia de datos Técnicas analíticas y [aprendizaje estadístico.](https://www.linkedin.com/posts/evelyn-ortiz_libros-bigdata-analytics-activity-7127317231566258176-fA16?utm_source=share&utm_medium=member_desktop) Un enfoque práctico
 
+  
 # Skills
 
 - Gain the skills you need to do independent data science [projects](https://www.kaggle.com/Learn)
