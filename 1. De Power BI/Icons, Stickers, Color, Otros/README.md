@@ -50,8 +50,7 @@ ofrece una buena selección de escalas de color cualitativas: estos sirven para 
 
 2.2.4 Generador de temas de color https://analysthub.enterprisedna.co/apps/colour-generator 
 
-#### 2.2.5 Colormind - Funciona en Power Bi 👌
-http://colormind.io/image/ 
+#### 2.2.5 Colormind - Funciona en [Power Bi](http://colormind.io/image/) 
 
 2.2.6 coolors: https://coolors.co/palettes/popular 
 
