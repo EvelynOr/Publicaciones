@@ -62,3 +62,5 @@ ofrece una buena selección de escalas de color cualitativas: estos sirven para 
 3.1 Recortar imagenes en linea https://www.iloveimg.com/es/recortar-imagen
 
 3.2 Recortar fotos en circulo https://crop-circle.imageonline.co/es/ 
+
+3.3 Remover [fondo](https://www.remove.bg/es)
