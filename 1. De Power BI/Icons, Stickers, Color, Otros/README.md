@@ -54,6 +54,8 @@ ofrece una buena selección de escalas de color cualitativas: estos sirven para 
 
 2.2.6 coolors: https://coolors.co/palettes/popular 
 
+2.2.7 Combinacion de colores [Color Hunt](https://colorhunt.co/)
+
 
 ## 👀 3. Edición
 
