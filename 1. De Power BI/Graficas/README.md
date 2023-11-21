@@ -85,3 +85,5 @@ https://activewizards.com/blog/how-to-choose-the-right-chart-type-infographic/
 ### 13 Inspiracion para visualizacion de datos
 https://www.linkedin.com/posts/yusnelkis_dataviz-dataliteracy-datavisualization-activity-7103410777142779904-4oSA?utm_source=share&utm_medium=member_desktop  
 
+### 14 Graphic [Matrix](https://www.billiondollargraphics.com/GCS.pdf)
+![image](https://github.com/EvelynOr/Publicaciones/assets/82233779/ed72d8e2-b7cd-4db5-b494-255b9f7e551f)
