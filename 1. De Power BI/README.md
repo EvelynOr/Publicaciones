@@ -28,5 +28,5 @@
 13. 10 great data visualizations [books](https://www.linkedin.com/feed/update/urn:li:activity:7106622343518511104/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7106622343518511104%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 14. 9 of the Best Data Analytics [Portfolios on the Web](https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-examples/)
 
-15. Inspiracion: [tableau](https://www.tableau.com/es-mx/learn/articles/sales-dashboards-examples-and-templates) y [plantillas](https://www.plandemejora.com/plantillas-de-dashboard-de-ventas-gratis/)
+15. Inspiracion. Para ventas [tableau](https://www.tableau.com/es-mx/learn/articles/sales-dashboards-examples-and-templates) y [plantillas](https://www.plandemejora.com/plantillas-de-dashboard-de-ventas-gratis/)
 
