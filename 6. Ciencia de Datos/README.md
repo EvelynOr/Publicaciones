@@ -34,13 +34,13 @@ Deporte, política y encuestas a [nivel mundial](https://data.fivethirtyeight.co
 
 - Ejemplo EDA con [Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb)
 
-- 5 paquetes de Python que automatizan el EDA. La decisión de usar EDA automática depende de: ecesidades específicas del proyecto, tamaño y complejidad del conjunto de datos y experiencia del usuario. [Ejemplo](https://github.com/jrsquire1/PythonEDA) Packages:
-
+- 5 paquetes de Python que automatizan el EDA. La decisión de usar EDA automática depende de: ecesidades específicas del proyecto, tamaño y complejidad del conjunto de datos y experiencia del usuario. [Ejemplo](https://github.com/jrsquire1/PythonEDA)
+Packages:
 1. YData Profiling https://pypi.org/project/ydata-profiling/ 
-+ Sweetviz https://pypi.org/project/sweetviz/ 
-+ DataPrep https://pypi.org/project/dataprep/ 
-+ D-Tale https://pypi.org/project/dtale/ 
-+ AutoViz https://pypi.org/project/autoviz/ 
+2. Sweetviz https://pypi.org/project/sweetviz/ 
+3. DataPrep https://pypi.org/project/dataprep/ 
+4. D-Tale https://pypi.org/project/dtale/ 
+5. AutoViz https://pypi.org/project/autoviz/ 
 source: [Joe Squire](https://www.linkedin.com/feed/update/urn:li:activity:7133077960319799296/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7133077960319799296%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 # Graficas
