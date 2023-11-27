@@ -36,7 +36,7 @@ Deporte, política y encuestas a [nivel mundial](https://data.fivethirtyeight.co
 
 - 5 paquetes de Python que automatizan el EDA. La decisión de usar EDA automática depende de: ecesidades específicas del proyecto, tamaño y complejidad del conjunto de datos y experiencia del usuario. [Ejemplo](https://github.com/jrsquire1/PythonEDA) Packages:
 
-+ YData Profiling https://pypi.org/project/ydata-profiling/ 
+1. YData Profiling https://pypi.org/project/ydata-profiling/ 
 + Sweetviz https://pypi.org/project/sweetviz/ 
 + DataPrep https://pypi.org/project/dataprep/ 
 + D-Tale https://pypi.org/project/dtale/ 
