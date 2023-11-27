@@ -8,7 +8,21 @@ https://www.kaggle.com/
 
 Kaggle de principiante a Grandmaster [en español](https://www.kaggle.com/code/macespinoza/kaggle-de-principiante-a-grandmaster-en-espa-ol)
 
+https://github.com/
+
 Deporte, política y encuestas a [nivel mundial](https://data.fivethirtyeight.com/) 
+
+𝗤𝘂𝗮𝗻𝗱𝗹 datos financieros, [económicos y alternativos](https://data.nasdaq.com/publishers/QDL)
+
+𝗨𝗖𝗜 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆. [aprendizaje automático y minería de datos](https://archive.ics.uci.edu/datasets)
+
+ 𝗢𝗽𝗲𝗻𝗠𝗟, compartir conjuntos de datos y experimentos de [aprendizaje automático](https://www.openml.org/)
+
+ 𝗔𝗪𝗦 𝗣𝘂𝗯𝗹𝗶𝗰 𝗗𝗮𝘁𝗮𝘀𝗲𝘁𝘀, variedad de conjuntos de [datos de acceso público](https://aws.amazon.com/es/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc)
+
+ 𝗗𝗮𝘁𝗮.𝗴𝗼𝘃, datos abiertos del gobierno de [Estados Unidos](https://catalog.data.gov/dataset)
+
+𝗚𝗼𝗼𝗴𝗹𝗲 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 𝗦𝗲𝗮𝗿𝗰𝗵, buscador especializado en encontrar conjuntos de [datos disponibles en la web](https://datasetsearch.research.google.com/?hl=es-419)
 
 [Otros Datasets](https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Datasets)
 
