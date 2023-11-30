@@ -43,6 +43,8 @@
 2. https://data.world/datasets/open-data
 3. https://datos.gob.es/es
 
+#### Otros
+- https://www.linkedin.com/feed/update/urn:li:activity:7072183693087322112/ 
 # Para Economistas
 1. INEGI: https://www.inegi.org.mx/
 2. KAGGLE: https://www.kaggle.com/
