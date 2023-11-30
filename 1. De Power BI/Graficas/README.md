@@ -88,4 +88,6 @@ https://www.linkedin.com/posts/yusnelkis_dataviz-dataliteracy-datavisualization-
 ### 14 Graphic [Matrix](https://www.billiondollargraphics.com/GCS.pdf)
 ![image](https://github.com/EvelynOr/Publicaciones/assets/82233779/ed72d8e2-b7cd-4db5-b494-255b9f7e551f)
 
-### 15
+### Chart.Guide: 15 https://chart.guide/poster/
+ ![image](https://github.com/EvelynOr/Publicaciones/assets/82233779/4974b428-00c5-430e-92e8-c3d77dd267fa)
+
