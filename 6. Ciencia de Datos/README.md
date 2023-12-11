@@ -18,12 +18,21 @@ Deporte, política y encuestas a [nivel mundial](https://data.fivethirtyeight.co
 
  𝗢𝗽𝗲𝗻𝗠𝗟, compartir conjuntos de datos y experimentos de [aprendizaje automático](https://www.openml.org/)
 
- 𝗔𝗪𝗦 𝗣𝘂𝗯𝗹𝗶𝗰 𝗗𝗮𝘁𝗮𝘀𝗲𝘁𝘀, variedad de conjuntos de [datos de acceso público](https://aws.amazon.com/es/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc)
+ 𝗔𝗪𝗦 𝗣𝘂𝗯𝗹𝗶𝗰 𝗗𝗮𝘁𝗮𝘀𝗲𝘁𝘀, variedad de conjuntos de [datos de acceso público](https://aws.amazon.com/es/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc) y https://aws.amazon.com/es/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc 
 
  𝗗𝗮𝘁𝗮.𝗴𝗼𝘃, datos abiertos del gobierno de [Estados Unidos](https://catalog.data.gov/dataset)
 
 𝗚𝗼𝗼𝗴𝗹𝗲 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 𝗦𝗲𝗮𝗿𝗰𝗵, buscador especializado en encontrar conjuntos de [datos disponibles en la web](https://datasetsearch.research.google.com/?hl=es-419)
 
+- Researcher tools: code, datasets, & models: https://www.microsoft.com/en-us/research/tools/? 
+
+- Reddit's r/datasets: https://www.reddit.com/r/datasets/ 
+
+- World Bank Open Data: https://data.worldbank.org/
+
+- Data.gov.uk:https://www.data.gov.uk/ 
+- DataHub: https://datahub.io/
+  
 [Otros Datasets](https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Datasets)
 
 ## EDA
