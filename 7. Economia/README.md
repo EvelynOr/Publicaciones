@@ -23,3 +23,5 @@
 8. Estudio Económico de América Latina y el Caribe 2023. El financiamiento de una transición sostenible: inversión para crecer y [enfrentar el cambio climático](https://www.linkedin.com/posts/evelyn-ortiz_economia-analytics-books-activity-7118049469962600448-Qdt-?utm_source=share&utm_medium=member_desktop)
    
 9. Informe Económico América Latina y el Caribe, Octubre 2023 - Conectados: Tecnologías Digitales para la [Inclusión y el Crecimiento](https://www.linkedin.com/posts/evelyn-ortiz_economia-technology-worldbank-activity-7123043462941196290-znc7?utm_source=share&utm_medium=member_desktop)
+    
+10. What does 2024 have in store for the economy? [Leading chief economists give their views](https://www.linkedin.com/feed/update/urn:li:activity:7153405838391410689/)
