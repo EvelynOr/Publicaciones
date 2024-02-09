@@ -11,3 +11,5 @@
 🔗 https://www.administracion.usmp.edu.pe/investigacion/files/7-PASOS-PARA-UNA-TESIS-EXITOSA-Desde-la-idea-inicial-hasta-la-sustentaci%C3%B3n.pdf
 
 ![Investigacion](https://user-images.githubusercontent.com/82233779/219097945-ee29952e-9567-4ddd-899b-4000c1ee7cdd.JPG)
+
+5. Prueba la extensión de Sci-Hub para encontrar [artículos científicos](https://universoabierto.org/2021/01/25/extension-de-sci-hub-para-encontrar-articulos-cientificos/?fbclid=IwAR2ahaU3MfYvZFUdFIfQfsBl5GfusbwlAQvrD5akUvY6aWGgJYL8gNdg6Ic) y https://www.linkedin.com/feed/update/urn:li:activity:7157209553997058048/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7157209553997058048%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29 
