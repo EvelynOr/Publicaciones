@@ -86,7 +86,7 @@ visualizaciones con dos variables: Gráficos de líneas - Gráficos de puntos
 - Ciencia de datos Técnicas analíticas y [aprendizaje estadístico.](https://www.linkedin.com/posts/evelyn-ortiz_libros-bigdata-analytics-activity-7127317231566258176-fA16?utm_source=share&utm_medium=member_desktop) Un enfoque práctico. [Data](https://github.com/EvelynOr/Publicaciones/tree/main/6.%20Ciencia%20de%20Datos/Datasets/Ciencia%20de%20datos%20T%C3%A9cnicas%20anal%C3%ADticas%20y%20aprendizaje%20estad%C3%ADstico)
 - INTRODUCCION A LA [CIENCIA DE DATOS](https://www.linkedin.com/feed/update/urn:li:activity:7160305207170506752/)
 
-- The Data Science [Handbook]()(https://github.com/kanishkamisra/Data-Science-Books/blob/master/The%20Data%20Science%20Handbook.pdf)
+- The Data Science [Handbook](https://github.com/kanishkamisra/Data-Science-Books/blob/master/The%20Data%20Science%20Handbook.pdf)
 
   
 # Skills
