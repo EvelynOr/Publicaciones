@@ -29,4 +29,5 @@
 14. 9 of the Best Data Analytics [Portfolios on the Web](https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-examples/)
 
 15. Inspiracion. Para ventas [tableau](https://www.tableau.com/es-mx/learn/articles/sales-dashboards-examples-and-templates) y [plantillas](https://www.plandemejora.com/plantillas-de-dashboard-de-ventas-gratis/)
+16. Diferencia entre métrica e indicador [¿Qué quieres medir?](https://tudashboard.com/diferencia-entre-metrica-e-indicador/)
 
