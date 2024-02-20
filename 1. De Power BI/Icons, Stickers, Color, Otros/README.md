@@ -56,6 +56,10 @@ ofrece una buena selección de escalas de color cualitativas: estos sirven para 
 
 2.2.7 Combinacion de colores [Color Hunt](https://colorhunt.co/)
 
+2.2.8 The easiest place to get colors from your photos [Canva](https://www.canva.com/colors/color-palette-generator/)
+
+2.2.9 JUST ENTER A COLOR And Generate nice Color Palettes [ColorSpace](https://mycolor.space/)
+
 
 ## 👀 3. Edición
 
