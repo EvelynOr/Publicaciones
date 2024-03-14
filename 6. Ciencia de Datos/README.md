@@ -32,8 +32,14 @@ Deporte, política y encuestas a [nivel mundial](https://data.fivethirtyeight.co
 
 - Data.gov.uk:https://www.data.gov.uk/ 
 - DataHub: https://datahub.io/
+- 𝗙𝗶𝘃𝗲𝗧𝗵𝗶𝗿𝘁𝘆𝗘𝗶𝗴𝗵𝘁: https://data.fivethirtyeight.com/, Noticias sobre política, deportes, cultura, y más
+- 𝗡𝗔𝗦𝗔 𝗢𝗽𝗲𝗻 𝗗𝗮𝘁𝗮 𝗣𝗼𝗿𝘁𝗮𝗹:https://data.nasa.gov/
+- 𝗥𝗲𝗱𝗱𝗶𝘁 𝗗𝗮𝘁𝗮𝘀𝗲𝘁𝘀: https://www.reddit.com/r/datasets/, Comunidad de Reddit, ¡preguntas y respuestas sobre todo! 
+
   
 [Otros Datasets](https://github.com/EvelynOr/Publicaciones/tree/main/1.%20De%20Power%20BI/Datasets)
+
+Top 11 lugares para encontrar dataset: https://blog.desafiolatam.com/mejores-lugares-encontrar-dataset/?utm_source=Linkedin&utm_medium=embajadores_gloriana&utm_campaign=recursos_gratuitos&utm_content=data 
 
 ## EDA
 - Análisis exploratorio de datos [EDA](https://www.linkedin.com/posts/evelyn-ortiz_libros-cientaedficosdedatos-eda-activity-7036002863554129920-_Ami?utm_source=share&utm_medium=member_desktop) es utilizado por los científicos de datos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de visualización de datos (ibm).
