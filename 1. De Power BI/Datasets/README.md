@@ -52,6 +52,7 @@
 4. OCDE: https://data.oecd.org/
 5. DATOS DE COMERCIO: https://oec.world/es/
 6. STATISTA (con restricciones): https://es.statista.com/
+7. 𝗜𝗠𝗙 𝗗𝗮𝘁𝗮:https://www.imf.org/en/data , Del FMI, datos sobre macroeconomía y finanzas.
     
 [^1]:[Source](https://www.linkedin.com/pulse/top-dataset-resources-practise-power-bi-arno-wakfer/?trackingId=g%2FCtmwFiTPaoXMwYnF8Ckg%3D%3D)
 
