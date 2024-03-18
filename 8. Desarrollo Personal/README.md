@@ -14,6 +14,8 @@
 
 - Scientists Just Found a Way to Help Your Brain Work [Like It's 30 Years Younger](https://www.linkedin.com/feed/update/urn:li:activity:7171919120442060800/)
 
+- Lo dice la ciencia: estos son los [5 hábitos para ser más feliz](https://www.linkedin.com/feed/update/urn:li:activity:7175182727988543488/)
+
 # Libros
 
 - Resetea tu [mente](https://www.linkedin.com/posts/evelyn-ortiz_libros-relaciaejn-sucede-activity-7043625709352677376-rBUR?utm_source=share&utm_medium=member_desktop)
