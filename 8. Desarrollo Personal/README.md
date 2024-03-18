@@ -12,6 +12,7 @@
 
 - [𝗘𝗹 𝗰𝗼𝗻𝘁𝗶𝗻𝘂𝗼 𝗽𝗶𝗰𝗼𝘁𝗲𝗼 𝗱𝗲 𝘂𝗻𝗮 𝘁𝗮𝗿𝗲𝗮 𝗮 𝗼𝘁𝗿𝗮, es 𝗰𝗲𝗿𝗲𝗯𝗿𝗮𝗹𝗺𝗲𝗻𝘁𝗲 𝗱𝗮ñ𝗶𝗻𝗼 𝘆 𝗲𝗺𝗼𝗰𝗶𝗼𝗻𝗮𝗹𝗺𝗲𝗻𝘁𝗲 𝗳𝗿𝘂𝘀𝘁𝗿𝗮𝗻𝘁𝗲](https://www.linkedin.com/feed/update/urn:li:activity:7105939881985507329/)
 
+- Scientists Just Found a Way to Help Your Brain Work [Like It's 30 Years Younger](https://www.linkedin.com/feed/update/urn:li:activity:7171919120442060800/)
 
 # Libros
 
@@ -19,7 +20,7 @@
 
 - La vida secreta del [cerebro](https://www.linkedin.com/search/results/all/?keywords=nos%20hallamos%20en%20medio%20de%20una%20revoluci%C3%B3n%20en%20nuestra&origin=GLOBAL_SEARCH_HEADER&sid=.bW) 
 
-
+- Lo dice la ciencia: estos son los [5 hábitos para ser más feliz](https://www.linkedin.com/feed/update/urn:li:activity:7175182727988543488/)
 
 
 
