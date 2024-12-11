@@ -1,23 +1,7 @@
 # Links y archivos para tipos de gráficos 
 
-1. Tipos de visualización en #powerbi explicadas de [forma sencilla](https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a) 
 
-2. Representación gráfica básica que ha de manejar un [científico de datos](https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html#gr%C3%A1ficos-de-tarta) 
 
-+ variables cuantitativas: Histogramas  - Gráficos de densidad  - Boxplot
-
-+ variables cualitativas: Gráficas de tarta - Gráficos de barra
-
-+ visualizaciones con dos variables:  Gráficos de líneas  - Gráficos de puntos
-
-2.1 Visualización de [Datos](https://datavizcatalogue.com/ES/)  e interpretacion de [graficas](https://statologos.com/) 
-![image](https://user-images.githubusercontent.com/82233779/214616710-6e4a180e-67b0-4347-a307-d74824fc5efa.png)
-
-2.2 Chart Selection Guide,  What do you want to [show](https://datavizcatalogue.com/blog/chart-selection-guide/) 
-
-![image](https://user-images.githubusercontent.com/82233779/214940117-7fc45af1-362b-47cc-ba21-84503b409aec.png)
-
-3. De Tableau Public, da [9 clasificaciones](https://public.tableau.com/views/VisualVocabulary/VisualVocabulary?%3Aembed=y&%3Adisplay_count=yes&publish=yes&%3AshowVizHome=no&fbclid=IwAR03imsU1Jd5CPK1oH_fbiUoqRSng51CH_EdWbIdwHdJhyJpDMXLoGMwtoY) 
 
 ![image](https://user-images.githubusercontent.com/82233779/219751840-4ecf170f-e0de-4cf4-b888-8cadb18128d2.png)
 
