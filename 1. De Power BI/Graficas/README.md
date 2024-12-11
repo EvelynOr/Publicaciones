@@ -3,10 +3,6 @@
 
 
 
-6. https://browser.timeviz.net/ 
-
-![image](https://user-images.githubusercontent.com/82233779/219753394-0dd2c3e4-d74d-416f-93b6-a6f7eac0139d.png)
-
 7. https://www.visual-literacy.org/periodic_table/periodic_table.html 
 
 ![image](https://user-images.githubusercontent.com/82233779/219753706-f36cdf51-ffac-441f-af99-00331ed957d5.png)
