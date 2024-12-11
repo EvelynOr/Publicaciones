@@ -2,9 +2,6 @@
 
 
 
-5. https://datavizproject.com/ 
-
-![image](https://user-images.githubusercontent.com/82233779/219753092-629319f0-f16c-45b9-9c09-5c2995e8a274.png)
 
 6. https://browser.timeviz.net/ 
 
