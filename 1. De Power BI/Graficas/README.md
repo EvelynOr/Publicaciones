@@ -2,13 +2,6 @@
 
 
 
-
-![image](https://user-images.githubusercontent.com/82233779/219751840-4ecf170f-e0de-4cf4-b888-8cadb18128d2.png)
-
-4. Tge Visualization [Universe](http://visualizationuniverse.com/charts/?sortBy=volume&sortDir=desc&fbclid=IwAR0fnogURH396hd-NrAE-zvheCCSn8tTg7Y6pc0KiaxSy-ClVAMaIt56ijc)
-
-![image](https://user-images.githubusercontent.com/82233779/219752673-dad9f92e-6a5b-42c9-b190-4af627338c41.png)
-
 5. https://datavizproject.com/ 
 
 ![image](https://user-images.githubusercontent.com/82233779/219753092-629319f0-f16c-45b9-9c09-5c2995e8a274.png)
