@@ -3,9 +3,7 @@
 
 
 
-7. https://www.visual-literacy.org/periodic_table/periodic_table.html 
 
-![image](https://user-images.githubusercontent.com/82233779/219753706-f36cdf51-ffac-441f-af99-00331ed957d5.png)
 
 8. Recomendación | Lunes de #libros
 
